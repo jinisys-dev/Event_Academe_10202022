@@ -1,0 +1,10 @@
+..\Main\Utilities.dll
+..\Main\Utilities.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Jinisys.Hotel.Utilities.Presentation.BackUpUI.resources
+obj\Debug\Jinisys.Hotel.Utilities.Presentation.CaptureImageUI.resources
+obj\Debug\Jinisys.Hotel.Utilities.Presentation.ReferenceTimeUI.resources
+obj\Debug\Utilities.csproj.GenerateResource.Cache
+obj\Debug\Utilities.dll
+obj\Debug\Utilities.pdb
+obj\Debug\Jinisys.Hotel.Utilities.Presentation.AlarmUI.resources

@@ -1,0 +1,800 @@
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\Main\AccountingInterface.dll
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\Main\AccountingInterface.pdb
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\AccountingInterface.dll
+C:\Documents and Settings\jess\Desktop\Folio Plus Build 632 ALPA VERSION\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Main\AccountingInterface.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Main\AccountingInterface.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\SUBVERSION FILES\FOLIO PLUS\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\AccountingInterface.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\AccountingInterface.pdb
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\PAX\Folio Plus\Main\AccountingInterface.dll
+D:\PAX\Folio Plus\Main\AccountingInterface.pdb
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\AccountingInterface.csproj.ResolveComReference.cache
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\AccountingInterface.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\AccountingInterface\obj\Release\AccountingInterface.dll.licenses
+D:\PAX\Source\Folio Plus\Main\AccountingInterface.dll
+D:\PAX\Source\Folio Plus\Main\AccountingInterface.pdb
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\PAX\Source\Folio Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\AccountingInterface.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\AccountingInterface.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\AccountingInterface.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\AccountingInterface.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+F:\Clark\Event Plus\Main\AccountingInterface.dll
+F:\Clark\Event Plus\Main\AccountingInterface.pdb
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+F:\Clark\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+E:\Event Plus\Main\AccountingInterface.dll
+E:\Event Plus\Main\AccountingInterface.pdb
+E:\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+E:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+E:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+E:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+E:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+E:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+E:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\Event Plus\Main\AccountingInterface.dll
+D:\Event Plus\Main\AccountingInterface.pdb
+D:\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+D:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\AccountingInterface.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\AccountingInterface.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\AccountingInterface.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\AccountingInterface.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\PICC integration\PICC\Event Plus\Main\AccountingInterface.dll
+D:\PICC integration\PICC\Event Plus\Main\AccountingInterface.pdb
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\PICC integration\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\AccountingInterface.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\AccountingInterface.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\AccountingInterface.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\AccountingInterface.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\AccountingInterface.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\AccountingInterface.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\AccountingInterface.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\AccountingInterface.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Presentation\Report_Documents\Event Management\Memorandum.rpt
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Presentation\Report_Documents\Event Management\Memorandum.cs
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Presentation\Report_Documents\Event Management\Memorandum.rpt
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Presentation\Report_Documents\Event Management\Memorandum.cs
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\AccountingInterface.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\AccountingInterface.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Presentation\Report_Documents\Event Management\Memorandum.rpt
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Presentation\Report_Documents\Event Management\Memorandum.cs
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\AccountingInterface.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\AccountingInterface.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Presentation\Report_Documents\Event Management\Memorandum.rpt
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Presentation\Report_Documents\Event Management\Memorandum.cs
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\AccountingInterface.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\AccountingInterface.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.ResolveComReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterCodesUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_CostCenterUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_GLchartOfAccounts.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_IntegrationSetupUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_JournalEntryCodesUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_NewEntryTransactionCodeMappingUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Exact_TransactionCodeMappingUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLAccountsUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_FolioAccountMapping.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_IntegrationSetup.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_GLAccounts.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Peachtree_Templates.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.QuickBooks_AddGLAccount.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_AddMapping.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.Quickbooks_IntegrationSetup.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccountMappingUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_GLAccounts.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.SAP_IntegrationSetup.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TranCode_GLAccountSetup.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\Jinisys.Hotel.AccountingInterface.Properties.Resources.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll.licenses
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\AccountingInterface\obj\Debug\AccountingInterface.pdb

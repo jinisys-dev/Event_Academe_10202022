@@ -1,0 +1,473 @@
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Security.dll.licenses
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Security.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Security.dll.licenses
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Release\Security.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Security.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Security.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Security.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Security\obj\Debug\Security.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Security.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Security.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Security.dll.licenses
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Security.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Security\obj\Debug\Security.pdb
+D:\PAX\Folio Plus\Main\Security.dll
+D:\PAX\Folio Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\PAX\Folio Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Security\obj\Debug\Security.dll.licenses
+D:\PAX\Folio Plus\Security\obj\Debug\Security.dll
+D:\PAX\Folio Plus\Security\obj\Debug\Security.pdb
+D:\PAX\Folio Plus\Security\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\PAX\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\PAX\Folio Plus\Security\obj\Release\Security.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Security\obj\Release\Security.dll.licenses
+D:\PAX\Folio Plus\Security\obj\Release\Security.dll
+D:\PAX\Folio Plus\Main\Security.pdb
+D:\PAX\Source\Folio Plus\Security\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\PAX\Source\Folio Plus\Security\obj\Release\Security.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Security\obj\Release\Security.dll.licenses
+D:\PAX\Source\Folio Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Security.dll.licenses
+D:\PAX\Source\Folio Plus\Main\Security.dll
+D:\PAX\Source\Folio Plus\Main\Security.pdb
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Security.dll
+D:\PAX\Source\Folio Plus\Security\obj\Debug\Security.pdb
+F:\PsYMoN\projects\Event Plus\Main\Security.dll
+F:\PsYMoN\projects\Event Plus\Main\Security.pdb
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Security.dll.licenses
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Security.dll
+F:\PsYMoN\projects\Event Plus\Security\obj\Debug\Security.pdb
+D:\Event Plus\Main\Security.dll
+D:\Event Plus\Main\Security.pdb
+D:\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\Event Plus\Security\obj\Debug\Security.dll.licenses
+D:\Event Plus\Security\obj\Debug\Security.dll
+D:\Event Plus\Security\obj\Debug\Security.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Security.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Security.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Security.dll.licenses
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Security.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Security\obj\Debug\Security.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Security.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Security.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Security.dll.licenses
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Security.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Security\obj\Debug\Security.pdb
+F:\Clark\Event Plus\Main\Security.dll
+F:\Clark\Event Plus\Main\Security.pdb
+F:\Clark\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+F:\Clark\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+F:\Clark\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+F:\Clark\Event Plus\Security\obj\Debug\Security.dll.licenses
+F:\Clark\Event Plus\Security\obj\Debug\Security.dll
+F:\Clark\Event Plus\Security\obj\Debug\Security.pdb
+E:\Event Plus\Main\Security.dll
+E:\Event Plus\Main\Security.pdb
+E:\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+E:\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+E:\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+E:\Event Plus\Security\obj\Debug\Security.dll.licenses
+E:\Event Plus\Security\obj\Debug\Security.dll
+E:\Event Plus\Security\obj\Debug\Security.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Security.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Security.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Security.dll.licenses
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Security.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Security\obj\Debug\Security.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Security.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Security.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Security.dll.licenses
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Security.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Security\obj\Debug\Security.pdb
+D:\PICC integration\PICC\Event Plus\Main\Security.dll
+D:\PICC integration\PICC\Event Plus\Main\Security.pdb
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Security.dll.licenses
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Security.dll
+D:\PICC integration\PICC\Event Plus\Security\obj\Debug\Security.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Security.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Security.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Security.dll.licenses
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Security.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Security\obj\Debug\Security.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Security.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Security.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Security.dll.licenses
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Security.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Security.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Security.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Security.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Security.dll.licenses
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Security.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Security\obj\Debug\Security.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Security.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Security.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Security.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Security.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Security\obj\Debug\Security.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Security.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Security.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Security.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Security.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Security\obj\Debug\Security.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Security.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Security.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Security.dll.licenses
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Security.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Security.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Security.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Security.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.SystemMenu.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.Role.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.BusinessLayer.User.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ChangePasswordUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.ResetPasswordUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.VerifyUserUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LockScreenUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.LogInUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.RolesUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SplashScreenUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.SystemRoleUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.TerminalUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Presentation.UserUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Jinisys.Hotel.Security.Properties.Resources.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Security.dll.licenses
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Security.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Security\obj\Debug\Security.pdb

@@ -1,0 +1,10 @@
+..\Main\ApplicationManager.dll
+..\Main\ApplicationManager.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Jinisys.Hotel.ApplicationManager.Form1.resources
+obj\Debug\Jinisys.Hotel.ApplicationManager.Presentation.MDIMainUI.resources
+obj\Debug\Jinisys.Hotel.ApplicationManager.Properties.Resources.resources
+obj\Debug\ApplicationManager.csproj.GenerateResource.Cache
+obj\Debug\ApplicationManager.dll.licenses
+obj\Debug\ApplicationManager.dll
+obj\Debug\ApplicationManager.pdb

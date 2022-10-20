@@ -1,0 +1,139 @@
+RecordKey	LineNum	AddressName	AddressName2	AddressName3	AddressType	AddrType	Block	BuildingFloorRoom	City	Country	County	FederalTaxID	State	Street	StreetNo	TaxCode	ZipCode
+RecordKey	LineNum	AddressName	AddressName2	AddressName3	AddressType	AddrType	Block	BuildingFloorRoom	City	Country	County	FederalTaxID	State	Street	StreetNo	TaxCode	ZipCode
+1	0	Work	"Cabangcalan,Mandaue"														
+2	0	Work	Mandaue city														
+3	0	Work	"Undaloc Conts.Bldg,Labangon"														
+4	0	Work	"Minglanilla ,CC"														
+5	0	Work	"V.gullas.,CC"														
+6	0	Work	"Sacris Road,Mandaue "														
+7	0	Work	"Wireless,Mandaue"														
+8	0	Work	"AS Fortuna st,Banilad,Mand."														
+9	0	Work	"Borromeo st,Cebu"														
+10	0	Work	"Basak,Mandaue"														
+11	0	Work	"Plaridel st.,Cebu City"														
+12	0	Work	Mandaue city														
+13	0	Work	Basuba st.Tipolo Mandaue														
+14	0	Work	"White gold Compd,NRA,CC"														
+15	0	Work	"Subangdaku,Mandaue"
+16	0	Work	"2nd floor,SM Cebu"
+17	0	Work	188MJ Cuenco ave.CC
+18	0	Work	"Highway ,Mandaue"
+19	0	Work	Pdel Rosario st.CC
+20	0	Work	"6th st.3rd ave,NRA,CC"
+21	0	Work	"Subangdaku,Mandaue"
+22	0	Work	"AS Fortuna st,Banilad,Mand."
+23	0	Work	"521 B AC Cortes ave.,Mandaue"
+24	0	Work	M H del Pilar st.Guiso Mand.
+25	0	Work	"S.E Jaime st.Paknaan,Mand."
+26	0	Work	"Tipolo,Mandaue"
+27	0	Work	Leon kilat st.CC
+28	0	Work	"Plaridel st.,Cebu City"
+29	0	Work	Leon kilat st.CC
+30	0	Work	San Roque st.Mandaue
+31	0	Work	"NRA,Mandaue"
+32	0	Work	Pakna-an Mandaue
+33	0	Work	"Hi-way Tagunol,Pardo CC"
+34	0	Work	"A.S Fortuna st.,Banilad "
+35	0	Work	"F.Cabahug,Kasambagan,Mabolo"
+36	0	Work	A.C Delgado st. cor 18th Port area Manila
+37	0	Work	"Maguikay,Mandaue City"
+38	0	Work	"Ayala Center,Cebu"
+39	0	Work	"Wilson st, Apas CC"
+40	0	Work	"Plaridel st.,Mandaue city"
+41	0	Work	"Subangdako,Mandaue"
+42	0	Work	892 MJ Cuenco ave..CC
+43	0	Work	Dr#8 J King bldg. T Padilla st.CC
+44	0	Work	"Osmeña Blvd,CC"
+45	0	Work	"Tipolo,Mandaue City"
+46	0	Work	"M.C Briones st. Bakilid,Mand"
+47	0	Work	A Cortes ave.Mandaue
+48	0	Work	"Upper Lipata,Minglanilla CC"
+49	0	Work	"A Borres st cor. Espeleta st ,CC"
+50	0	Work	"1817 MJ Cuenco ave,Mabolo CC"
+51	0	Work	"Dr#2 Ganzon apt.,Mambaling CC"
+52	0	Work	32 Sangciangko st.CC
+53	0	Work	Mandaue city
+54	0	Work	"21 AS Fortuna st.,Banilad,M"
+55	0	Work	"Jveyra st.NRA,Mabolo CC"
+56	0	Work	"Lacson st,Bacolod City"
+57	0	Work	M.J Cuenco ave. CC
+58	0	Work	"Englis,Capitol site,CC"
+59	0	Work	AS.Fortuna st.Mandaue
+60	0	Work	"Subangdaku,Mandaue"
+61	0	Work	"MC Briones st, Cebu"
+62	0	Work	Mandaue city
+63	0	Work	"Escaño cmpd.,Mabolo Cebu"
+64	0	Work	"4032 Cul de Sac road,Brgy Sun Vall,Pque City"
+65	0	Work	
+66	0	Work	"AS Fortuna St.Banilad,Mandaue City"
+67	0	Work	"Cebu North Road,Mandaue"
+68	0	Work	" F.Gonzales st, Sto.Niño ,CC"
+69	0	Work	"651 Bulacao,Pardo"
+70	0	Work	Mandaue
+71	0	Work	MJ Cuenco Ave..CC
+72	0	Work	"Highway Basak,Mandaue"
+73	0	Work	"Bonifacio st.,CC"
+74	0	Work	"North Reclamation Area,CC"
+75	0	Work	"dr#1 Ceniza comm plaza,Hi-way,Mandaue"
+76	0	Work	AC Cortes ave..Mandaue
+77	0	Work	"V.gullas.,CC"
+78	0	Work	"506 T.Alonzo st.sta.Cruz,Manila"
+79	0	Work	"Osmeña Blvd,CC"
+80	0	Work	"292 Sanciangko st,CC"
+81	0	Work	269 Plaridel ext.CC
+82	0	Work	
+83	0	Work	18 Leon Kilat st..CC
+84	0	Work	"MJ Cuenco ave,Mabolo"
+85	0	Work	Zulueta st..CC
+86	0	Work	"Pitogo,Consolacion,Cebu"
+87	0	Work	"Subangdaku,Mandaue"
+88	0	Work	"A.S Fortuna st.,Banilad "
+89	0	Work	99 F.Gonzales st.Cebu 
+90	0	Work	"28-B Road 20,Brgy Bahay Toro,Quezon City"
+91	0	Work	M.J Cuenco ave. CC
+92	0	Work	"Tabok,Mandaue"
+93	0	Work	"L Jaena st,Subangdaku,Mandaue"
+94	0	Work	"Holy name st.,Mabolo,Cebu"
+95	0	Work	"North Road 6,NRA,Cebu"
+96	0	Work	"M.Sanchez st,Alang-alang,Mandaue"
+97	0	Work	Q.Ganciang st. Mambaling
+98	0	Work	Mandaue city
+99	0	Work	Cebu City
+100	0	Work	"Frienshio bldg.,Subangdako,Mandaue"
+101	0	Work	"Osmeña Blvd,CC"
+102	0	Work	"Tupas st,brgy Sawang Calero,Cebu"
+103	0	Work	MJ Cuenco Ave..CC
+104	0	Work	AC Cortes ave..Mandaue
+105	0	Work	Tribunal Mandaue 
+106	0	Work	11 V.Gullas cor Lapu-lapu st. CC
+107	0	Work	"125 Pladirel st.,CC"
+108	0	Work	"F Ramirez bldg,Ibabao,Mandaue"
+109	0	Work	"Gaudalupe,CC"
+110	0	Work	"Piyo Tabogon,Cebu"
+111	0	Work	"154 Lopez Jaena st.subangdako,Mand."
+112	0	Work	Rizal st. Mandaue
+113	0	Work	"Unit 2&3 VMS bldg,Alang-alang,Mandaue "
+114	0	Work	"Unit 3,Senido bldg.,AC Cortes,Mandaue"
+115	0	Work	"Rm 201 VNU Arcade,Paknaan,Mandaue"
+116	0	Work	"MJ Cuenco Ave.Mabolo,CC"
+117	0	Work	"310 F.Llamas st. Punta Princesa,CC"
+118	0	Work	"Duros comples,yati,Lilo-an,Cebu"
+119	0	Work	"5,Rue Pedro-Meylan 1208 Geneva,Switzerland"
+120	0	Work	"Colon & climaco st,Pahina CC"
+121	0	Work	"Highway 77,Talamban"
+122	0	Work	Duljo Fatima CC
+123	0	Work	"V.Gullas st.,CC"
+124	0	Work	"Ouano ave,Reclamation Area,M"
+125	0	Work	"#7 H Franco bldg,MC Briones,Mandaue"
+126	0	Work	MJ Cuenco ave. Mabolo
+127	0	Work	"Gorodo ave,Lahug Cebu"
+128	0	Work	T Padilla st.CC
+129	0	Work	Magallanes st.Cebu
+130	0	Work	"Reinhard Wirtgen bldg.Dalag,Maribago Lapu-lapu"
+131	0	Work	"Villamor arcade,Cabahug,Mand."
+132	0	Work	"Lawaan 3,Talisay City"
+133	0	Work	"Tipolo,Mandaue"
+134	0	Work	"2422-A Obedience st..Capitol site,CC"
+135	0	Work	"Unit 105 Regner M Cemtrum V.Rama ave,Guadalupe"
+136	0	Work	"North Road Basak,Mand."
+137	0	Work	MJ Cuenco Ave..CC

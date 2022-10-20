@@ -1,0 +1,410 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0AD32BB7-EB53-4A33-BE53-C9648ED9C925}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Cashier</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Jinisys.Hotel.Cashier</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>Jinisys.Hotel.Cashier.%28None%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility">
+      <Name>Accessibility</Name>
+    </Reference>
+    <Reference Include="Accounts, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="AxInterop.VSFlex7">
+      <Name>AxInterop.VSFlex7</Name>
+      <HintPath>..\Rooms\bin\AxInterop.VSFlex7.dll</HintPath>
+    </Reference>
+    <Reference Include="BusinessSharedClasses, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Win.C1FlexGrid.Classic.dll</HintPath>
+    </Reference>
+    <Reference Include="ConfigurationHotel, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Interop.VSFlex7">
+      <Name>Interop.VSFlex7</Name>
+      <HintPath>..\Rooms\bin\Interop.VSFlex7.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Name>mscorlib</Name>
+    </Reference>
+    <Reference Include="MSDATASRC">
+      <Name>MSDATASRC</Name>
+      <HintPath>..\..\..\..\..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\MSDATASRC.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="NightAudit, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Reports, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Security, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Main\Security.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole">
+      <Name>stdole</Name>
+      <HintPath>..\..\..\..\..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\stdole.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="UIFramework, Version=0.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Main\UIFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\AccountingAdjustments.cs" />
+    <Compile Include="Business Layer\Entity Classes\CallCharge.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\CashTerminal.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\NonGuestTransaction.cs" />
+    <Compile Include="Business Layer\Facade Classes\AccountingAdjustmentFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\CallChargesFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\CashTerminalFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\CloseShiftFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\NonGuestTransactionFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\OpenShiftFacade.cs">
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\SalesForecastFacade.cs" />
+    <Compile Include="Data Access Layer\AccountingAdjustmentDAO.cs" />
+    <Compile Include="Data Access Layer\CallChargesDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\CashTerminalDAO.cs" />
+    <Compile Include="Data Access Layer\CloseShiftDAO.cs" />
+    <Compile Include="Data Access Layer\NonGuestTransactionDAO.cs" />
+    <Compile Include="Data Access Layer\OpenShiftDAO.cs" />
+    <Compile Include="Data Access Layer\SalesForecastDAO.cs" />
+    <Compile Include="Presentation\AccountingAdjustmentPostUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AccountingAdjustmentPostUI.Designer.cs">
+      <DependentUpon>AccountingAdjustmentPostUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\AddTransactionUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\BrowseAccountUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\BrowseDriverUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\BrowseDriverUI.Designer.cs">
+      <DependentUpon>BrowseDriverUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CashTerminalListUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CashTerminalListUI.Designer.cs">
+      <DependentUpon>CashTerminalListUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CheckOutUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerDetailsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerDetailsUI.Designer.cs">
+      <DependentUpon>CityLedgerDetailsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerPaymentUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerPaymentUI.Designer.cs">
+      <DependentUpon>CityLedgerPaymentUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerUI.Designer.cs">
+      <DependentUpon>CityLedgerUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CloseShiftUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CloseShiftUI.designer.cs">
+      <DependentUpon>CloseShiftUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\BrowseFolioUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\BrowseFolioUI.Designer.cs">
+      <DependentUpon>BrowseFolioUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\AddDirectPostTransactionUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\DirectTransactionPostUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\FolioLedgerInquiryUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\FolioLedgerInquiryUI.Designer.cs">
+      <DependentUpon>FolioLedgerInquiryUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\FolioLedgersUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\FolioLedgerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\OpenShiftUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\OpenShiftUI.Designer.cs">
+      <DependentUpon>OpenShiftUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Payments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\PostLedger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\SalesForecastUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\SalesForecastUI.Designer.cs">
+      <DependentUpon>SalesForecastUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\TransactionRoutingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TransferDebitUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TransferDebitUI.Designer.cs">
+      <DependentUpon>TransferDebitUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\VoidedTransactionUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Business Layer\Entity Classes\CallCharge.resx">
+      <DependentUpon>CallCharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\CashTerminal.resx">
+      <DependentUpon>CashTerminal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\AccountingAdjustmentPostUI.resx">
+      <DependentUpon>AccountingAdjustmentPostUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\AddTransactionUI.resx">
+      <DependentUpon>AddTransactionUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\BrowseAccountUI.resx">
+      <DependentUpon>BrowseAccountUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\BrowseDriverUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BrowseDriverUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CashTerminalListUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CashTerminalListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CheckOutUI.resx">
+      <DependentUpon>CheckOutUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CityLedgerDetailsUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CityLedgerDetailsUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CityLedgerPaymentUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CityLedgerPaymentUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CityLedgerUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CityLedgerUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CloseShiftUI.resx">
+      <DependentUpon>CloseShiftUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\BrowseFolioUI.resx">
+      <DependentUpon>BrowseFolioUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\AddDirectPostTransactionUI.resx">
+      <DependentUpon>AddDirectPostTransactionUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\DirectTransactionPostUI.resx">
+      <DependentUpon>DirectTransactionPostUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\FolioLedgerInquiryUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FolioLedgerInquiryUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\FolioLedgersUI.resx">
+      <DependentUpon>FolioLedgersUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\FolioLedgerUI.resx">
+      <DependentUpon>FolioLedgerUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\OpenShiftUI.resx">
+      <DependentUpon>OpenShiftUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Payments.resx">
+      <DependentUpon>Payments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\PostLedger.resx">
+      <DependentUpon>PostLedger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\SalesForecastUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SalesForecastUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TransactionRoutingUI.resx">
+      <DependentUpon>TransactionRoutingUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TransferDebitUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TransferDebitUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\VoidedTransactionUI.resx">
+      <DependentUpon>VoidedTransactionUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Reservation\Reservation.csproj">
+      <Project>{25C5F1FA-A6FD-4578-AA6D-97C5BA671258}</Project>
+      <Name>Reservation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

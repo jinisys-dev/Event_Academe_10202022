@@ -1,0 +1,10 @@
+bin\Debug\CreateDatabase.exe
+bin\Debug\CreateDatabase.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CreateDatabase.frmCreateDatabase.resources
+obj\Debug\CreateDatabase.Properties.Resources.resources
+obj\Debug\CreateDatabase.csproj.GenerateResource.Cache
+obj\Debug\CreateDatabase.exe
+obj\Debug\CreateDatabase.pdb
+bin\Debug\hotel.sql
+bin\Debug\resto.sql

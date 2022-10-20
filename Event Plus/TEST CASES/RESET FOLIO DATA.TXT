@@ -1,0 +1,33 @@
+delete from cashiers_logs ;
+delete from changes_log;
+delete from cityledger;
+delete from csledger;
+delete from event_applied_rates;
+delete from event_booking_info;
+delete from event_details;
+delete from event_meal_requirements;
+delete from event_requirements;
+delete from event_rooms;
+delete from folio;
+delete from folio_merge_history;
+delete from folioledger;
+delete from foliopackage;
+delete from folioprivilege;
+delete from foliorecurringcharge;
+delete from foliorouting;
+delete from folioschedules;
+delete from foliotransactions;
+
+delete from hk_housekeepingjobs;
+delete from nonguesttransaction;
+
+delete from paymentledger;
+
+delete from roomblock;
+delete from roomevents;
+update rooms set stateflag = 'VACANT', cleaningstatus = 'CLEAN';
+
+delete from salesledger;
+
+
+

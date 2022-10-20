@@ -1,0 +1,506 @@
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Integrations.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Integrations.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.ResolveComReference.cache
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\Integrations.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\C1.Common.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\SPB.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.xml
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\SPB.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.SyncSAP.resources
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\Integrations.Properties.Resources.resources
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Reservation.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Utilities.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\ListViewEx.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\WebCam_Capture.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\office.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\SAP SDK.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Accounts.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Cashier.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\UIFramework.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Security.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\NightAudit.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Services.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Reports.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Utilities.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\office.xml
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Accounts.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Cashier.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\UIFramework.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Security.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\NightAudit.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Services.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Reservation.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\Reports.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\af\ConfigurationHotel.resources.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\ExpandableGridView.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.pdb
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.GLMapping.resources
+D:\PICC integration\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll.licenses
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\PICC integration\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.2.xml
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Integrations.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Integrations.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Reservation.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Utilities.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\ListViewEx.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\WebCam_Capture.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\office.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\SAP SDK.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\SPB.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\ExpandableGridView.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Accounts.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\C1.Common.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Security.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\UIFramework.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Services.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Reports.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Utilities.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.xml
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\office.xml
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\SPB.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Accounts.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Security.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\UIFramework.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Services.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Reports.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\af\ConfigurationHotel.resources.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.ResolveComReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.GLMapping.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.SyncSAP.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\Integrations.Properties.Resources.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll.licenses
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\obj\Debug\Integrations.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Cashier.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\NightAudit.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\NightAudit.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Cashier.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Integrations\bin\Debug\Reservation.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.ResolveComReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.GLMapping.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.SyncSAP.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\Integrations.Properties.Resources.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll.licenses
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\Integrations.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Integrations.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Integrations.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\MySql.Data.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Reservation.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Utilities.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\ListViewEx.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\WebCam_Capture.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\office.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\SAP SDK.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\SPB.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\ExpandableGridView.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Cashier.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Accounts.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\C1.Common.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\UIFramework.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Security.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\NightAudit.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Services.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Reports.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Utilities.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.xml
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\office.xml
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\SPB.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Cashier.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Accounts.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\UIFramework.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Security.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\NightAudit.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Services.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Reservation.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\Reports.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\bin\Debug\af\ConfigurationHotel.resources.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Integrations.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Integrations.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Reservation.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Utilities.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\ListViewEx.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\WebCam_Capture.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\office.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\SAP SDK.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\SPB.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\ExpandableGridView.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Cashier.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Accounts.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Common.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Security.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\UIFramework.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\NightAudit.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Services.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Reports.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Utilities.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.xml
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\office.xml
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\SPB.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Cashier.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Accounts.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Security.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\UIFramework.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\NightAudit.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Services.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Reservation.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Reports.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\af\ConfigurationHotel.resources.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.ResolveComReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.GLMapping.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.SyncSAP.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.Properties.Resources.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll.licenses
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Integrations.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Integrations.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Reservation.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Utilities.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\ListViewEx.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\WebCam_Capture.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\office.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\SAP SDK.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\SPB.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\ExpandableGridView.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Cashier.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Accounts.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Common.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Security.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\UIFramework.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\NightAudit.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Services.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Reports.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Utilities.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.xml
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\office.xml
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\ConfigurationHotel.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\SPB.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\AccountingInterface.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Cashier.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Accounts.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Security.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\UIFramework.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\NightAudit.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Services.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Reservation.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\Reports.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\bin\Debug\af\ConfigurationHotel.resources.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.ResolveComReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.GLMapping.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.Presentation.SyncSAP.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.Properties.Resources.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll.licenses
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Integrations\obj\Debug\Integrations.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Integrations.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Integrations.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\AccountingInterface.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\ConfigurationHotel.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Reservation.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Utilities.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\WebCam_Capture.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\office.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\SAP SDK.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\SPB.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Accounts.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\ExpandableGridView.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Cashier.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\ListViewEx.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\C1.Common.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Security.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\UIFramework.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\NightAudit.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Services.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Reports.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Utilities.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.xml
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\office.xml
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\ConfigurationHotel.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\SPB.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\AccountingInterface.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Accounts.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Cashier.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Security.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\UIFramework.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\NightAudit.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Services.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Reservation.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\Reports.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\bin\Debug\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\Integrations.csproj.ResolveComReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\Integrations.Presentation.GLMapping.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\Integrations.Presentation.SyncSAP.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\Integrations.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\Integrations.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\Integrations.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\Integrations.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Integrations\obj\Debug\Integrations.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Integrations.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Integrations.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\AccountingInterface.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\ConfigurationHotel.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reservation.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Utilities.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\ListViewEx.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\WebCam_Capture.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\office.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\SAP SDK.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\SPB.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\ExpandableGridView.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Cashier.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Accounts.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Common.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\UIFramework.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Security.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\NightAudit.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Services.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reports.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Utilities.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.xml
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\office.xml
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\ConfigurationHotel.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\SPB.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\AccountingInterface.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Cashier.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Accounts.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\UIFramework.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Security.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\NightAudit.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Services.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reservation.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reports.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\bin\Debug\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.csproj.ResolveComReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.Presentation.GLMapping.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.Presentation.SyncSAP.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Integrations.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Integrations.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\AccountingInterface.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\ConfigurationHotel.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reservation.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Utilities.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\WebCam_Capture.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\office.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\SAP SDK.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\SPB.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Accounts.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\ExpandableGridView.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Cashier.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\ListViewEx.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Common.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Security.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\UIFramework.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\NightAudit.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Services.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reports.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Utilities.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.xml
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\office.xml
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\ConfigurationHotel.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\SPB.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\AccountingInterface.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Accounts.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Cashier.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Security.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\UIFramework.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\NightAudit.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Services.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reservation.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reports.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.csproj.ResolveComReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.Presentation.GLMapping.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.Presentation.SyncSAP.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.Properties.Resources.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.dll.licenses
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\MySql.Data.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Integrations.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Integrations.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\AccountingInterface.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.2.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\ConfigurationHotel.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\MySql.Data.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reservation.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Utilities.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\WebCam_Capture.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\office.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\SAP SDK.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\SPB.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Accounts.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\ExpandableGridView.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.Classic.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Cashier.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\ListViewEx.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Common.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Security.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\UIFramework.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\NightAudit.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Services.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reports.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Utilities.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.xml
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\office.xml
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\ConfigurationHotel.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\SPB.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\AccountingInterface.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Accounts.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Cashier.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\C1.Win.C1FlexGrid.2.xml
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\BusinessSharedClasses.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Security.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\UIFramework.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\NightAudit.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Services.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reservation.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Reports.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.csproj.ResolveComReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.Presentation.GLMapping.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.Presentation.SyncSAP.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.Properties.Resources.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.dll.licenses
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Integrations\obj\Debug\Integrations.pdb

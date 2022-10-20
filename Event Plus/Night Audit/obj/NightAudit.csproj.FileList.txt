@@ -1,0 +1,10 @@
+..\Main\NightAudit.dll
+..\Main\NightAudit.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+obj\Debug\NightAudit.csproj.GenerateResource.Cache
+obj\Debug\NightAudit.dll
+obj\Debug\NightAudit.pdb

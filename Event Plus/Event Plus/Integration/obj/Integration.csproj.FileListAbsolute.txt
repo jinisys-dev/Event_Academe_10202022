@@ -1,0 +1,5 @@
+D:\PICC integration\PICC\Event Plus\Event Plus\Integration\bin\Debug\Integration.dll
+D:\PICC integration\PICC\Event Plus\Event Plus\Integration\bin\Debug\Integration.pdb
+D:\PICC integration\PICC\Event Plus\Event Plus\Integration\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\Event Plus\Integration\obj\Debug\Integration.dll
+D:\PICC integration\PICC\Event Plus\Event Plus\Integration\obj\Debug\Integration.pdb

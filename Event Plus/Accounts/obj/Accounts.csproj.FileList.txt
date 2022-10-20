@@ -1,0 +1,16 @@
+..\Main\Accounts.dll
+..\Main\Accounts.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+obj\Debug\Accounts.csproj.GenerateResource.Cache
+obj\Debug\Accounts.dll.licenses
+obj\Debug\Accounts.dll
+obj\Debug\Accounts.pdb
+obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources

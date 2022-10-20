@@ -1,0 +1,814 @@
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Cashier.dll.licenses
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Cashier.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Release\Cashier.dll.licenses
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Cashier.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Cashier.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Cashier.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Cashier\obj\Debug\Cashier.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Cashier.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Cashier.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Cashier.dll.licenses
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Cashier.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Cashier\obj\Debug\Cashier.pdb
+D:\PAX\Folio Plus\Main\Cashier.dll
+D:\PAX\Folio Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\PAX\Folio Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\PAX\Folio Plus\Cashier\obj\Debug\Cashier.dll
+D:\PAX\Folio Plus\Cashier\obj\Debug\Cashier.pdb
+D:\PAX\Folio Plus\Cashier\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\PAX\Folio Plus\Cashier\obj\Release\Cashier.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Cashier\obj\Release\Cashier.dll.licenses
+D:\PAX\Folio Plus\Cashier\obj\Release\Cashier.dll
+D:\PAX\Folio Plus\Main\Cashier.pdb
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Cashier.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Cashier\obj\Release\Cashier.dll.licenses
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\PAX\Source\Folio Plus\Main\Cashier.dll
+D:\PAX\Source\Folio Plus\Main\Cashier.pdb
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Cashier.dll
+D:\PAX\Source\Folio Plus\Cashier\obj\Debug\Cashier.pdb
+D:\Event Plus\Main\Cashier.dll
+D:\Event Plus\Main\Cashier.pdb
+D:\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\Event Plus\Cashier\obj\Debug\Cashier.dll
+D:\Event Plus\Cashier\obj\Debug\Cashier.pdb
+F:\PsYMoN\projects\Event Plus\Main\Cashier.dll
+F:\PsYMoN\projects\Event Plus\Main\Cashier.pdb
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Cashier.dll
+F:\PsYMoN\projects\Event Plus\Cashier\obj\Debug\Cashier.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Cashier.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Cashier.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Cashier.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Cashier\obj\Debug\Cashier.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Cashier.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Cashier.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Cashier.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Cashier\obj\Debug\Cashier.pdb
+D:\FILES\Jinisys Softwares\Event Plus\Main\Cashier.dll
+D:\FILES\Jinisys Softwares\Event Plus\Main\Cashier.pdb
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Cashier.dll
+D:\FILES\Jinisys Softwares\Event Plus\Cashier\obj\Debug\Cashier.pdb
+F:\Clark\Event Plus\Main\Cashier.dll
+F:\Clark\Event Plus\Main\Cashier.pdb
+F:\Clark\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+F:\Clark\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+F:\Clark\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+F:\Clark\Event Plus\Cashier\obj\Debug\Cashier.dll
+F:\Clark\Event Plus\Cashier\obj\Debug\Cashier.pdb
+C:\Users\Gene\Desktop\Event Plus\Main\Cashier.dll
+C:\Users\Gene\Desktop\Event Plus\Main\Cashier.pdb
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Cashier.dll
+C:\Users\Gene\Desktop\Event Plus\Cashier\obj\Debug\Cashier.pdb
+E:\Event Plus\Main\Cashier.dll
+E:\Event Plus\Main\Cashier.pdb
+E:\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+E:\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+E:\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+E:\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+E:\Event Plus\Cashier\obj\Debug\Cashier.dll
+E:\Event Plus\Cashier\obj\Debug\Cashier.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Cashier.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Cashier.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Cashier.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Cashier\obj\Debug\Cashier.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Cashier.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Cashier.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Cashier\obj\Debug\Cashier.pdb
+D:\PICC integration\PICC\Event Plus\Main\Cashier.dll
+D:\PICC integration\PICC\Event Plus\Main\Cashier.pdb
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll
+D:\PICC integration\PICC\Event Plus\Cashier\obj\Debug\Cashier.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Cashier.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Cashier.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Cashier\obj\Debug\Cashier.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Cashier.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Cashier.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Cashier.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Cashier.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Cashier.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Cashier.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Cashier\obj\Debug\Cashier.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Cashier.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Cashier.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Cashier.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Cashier\obj\Debug\Cashier.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Cashier.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Cashier.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Cashier.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Cashier.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Cashier.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Cashier.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CallCharge.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.BusinessLayer.CashTerminal.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AccountingAdjustmentPostUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddTransactionUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseAccountUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseDriverUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CashTerminalListUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CheckOutUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerDetailsUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerPaymentUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CityLedgerUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.CloseShiftUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.BrowseFolioUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.AddDirectPostTransactionUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.DirectTransactionPostUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerInquiryUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgersUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.FolioLedgerUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.OpenShiftUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.Payment.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.PostToLedgerUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.SalesForecastUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransactionRoutingUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.TransferDebitUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Presentation.VoidedTransactionUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Jinisys.Hotel.Cashier.Properties.Resources.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.dll.licenses
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Cashier\obj\Debug\Cashier.pdb

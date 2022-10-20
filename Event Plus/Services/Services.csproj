@@ -1,0 +1,290 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{557A6DA4-5B7A-42FC-B97C-BA5D1308A934}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Services</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Jinisys.Hotel.Services</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>Jinisys.Hotel.Services.%28None%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accounts, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Main\Accounts.dll</HintPath>
+    </Reference>
+    <Reference Include="BusinessSharedClasses, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Main\BusinessSharedClasses.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948" />
+    <Reference Include="C1.Win.C1FlexGrid, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da" />
+    <Reference Include="C1.Win.C1FlexGrid.Classic, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da" />
+    <Reference Include="ConfigurationHotel, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Main\ConfigurationHotel.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Name>mscorlib</Name>
+    </Reference>
+    <Reference Include="MSDATASRC">
+      <Name>MSDATASRC</Name>
+      <HintPath>..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\MSDATASRC.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Security, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="stdole">
+      <Name>stdole</Name>
+      <HintPath>..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\stdole.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.ServiceProcess">
+      <Name>System.ServiceProcess</Name>
+    </Reference>
+    <Reference Include="System.Web">
+      <Name>System.Web</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="UIFramework, Version=1.0.2302.18872, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Main\UIFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\EngineeringJob.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\EngineeringService.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\HouseKeeper.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\HousekeepingJob.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\HousekeepingJobs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\HousekeepingType.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\EngineeringJobFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\EngineeringServiceFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\HouseKeeperFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\HouseKeepingJobFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\HouseKeepingLogFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\HousekeepingTypeFacade.cs" />
+    <Compile Include="Data Access\EngineeringJobDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\EngineeringServiceDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\HouseKeeperDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\HouseKeepingJobDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\HouseKeepingLogDAO.cs" />
+    <Compile Include="Data Access\HousekeepingTypeDAO.cs" />
+    <Compile Include="Presentation\EngineeringJobUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\EngineeringServiceUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\HouseKeeperUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\HousekeepingType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\HousekeepingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\AddRemark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\AddRemark.designer.cs">
+      <DependentUpon>AddRemark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HouseKeepingLogUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HouseKeepingLogUI.designer.cs">
+      <DependentUpon>HouseKeepingLogUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ServicesLookUpUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Business Layer\Entity Classes\EngineeringJob.resx">
+      <DependentUpon>EngineeringJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\EngineeringService.resx">
+      <DependentUpon>EngineeringService.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\HouseKeeper.resx">
+      <DependentUpon>HouseKeeper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\HousekeepingJob.resx">
+      <DependentUpon>HousekeepingJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EngineeringJobUI.resx">
+      <DependentUpon>EngineeringJobUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EngineeringServiceUI.resx">
+      <DependentUpon>EngineeringServiceUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\HouseKeeperUI.resx">
+      <DependentUpon>HouseKeeperUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\HousekeepingType.resx">
+      <DependentUpon>HousekeepingType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\HousekeepingUI.resx">
+      <DependentUpon>HousekeepingUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\AddRemark.resx">
+      <DependentUpon>AddRemark.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\HouseKeepingLogUI.resx">
+      <DependentUpon>HouseKeepingLogUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ServicesLookUpUI.resx">
+      <DependentUpon>ServicesLookUpUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\broom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Reservation\Reservation.csproj">
+      <Project>{25C5F1FA-A6FD-4578-AA6D-97C5BA671258}</Project>
+      <Name>Reservation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

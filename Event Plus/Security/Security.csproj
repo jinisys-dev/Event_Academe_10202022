@@ -1,0 +1,333 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{468E6722-051D-4E6D-ADFF-C8C2069B5B02}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Security</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Jinisys.Hotel.Security</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>Jinisys.Hotel.Security.%28None%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.VSFlex7, Version=1.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Main\AxInterop.VSFlex7.dll</HintPath>
+    </Reference>
+    <Reference Include="BusinessSharedClasses, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Win.C1FlexGrid.Classic.dll</HintPath>
+    </Reference>
+    <Reference Include="ConfigurationHotel, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Interop.VSFlex7, Version=1.0.0.0, Culture=neutral" />
+    <Reference Include="mscorlib">
+      <Name>mscorlib</Name>
+    </Reference>
+    <Reference Include="MSDATASRC">
+      <Name>MSDATASRC</Name>
+      <HintPath>..\..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\MSDATASRC.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole">
+      <Name>stdole</Name>
+      <HintPath>..\..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\stdole.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="UIFramework, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\Menu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\MenuCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\Role.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\RoleCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\RoleMenu.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\RoleMenuCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\RoleUIPrivilege.cs" />
+    <Compile Include="Business Layer\Entity Classes\Role_Privilege.cs">
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\User.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\MenuFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\RolesFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\SystemRoleFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\UserFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\MenuDao.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\RolesDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\SystemRoleDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\UserDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Presentation\ChangePasswordUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ChangePasswordUI.Designer.cs">
+      <DependentUpon>ChangePasswordUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ResetPasswordUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ResetPasswordUI.Designer.cs">
+      <DependentUpon>ResetPasswordUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\VerifyUserUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\LockScreenUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\LogInUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RolesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\SplashScreenUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\SystemRoleUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TermminalUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\UserUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Business Layer\Entity Classes\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\Role.resx">
+      <DependentUpon>Role.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ChangePasswordUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ChangePasswordUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ResetPasswordUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ResetPasswordUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\VerifyUserUI.resx">
+      <DependentUpon>VerifyUserUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\LockScreenUI.resx">
+      <DependentUpon>LockScreenUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\LogInUI.resx">
+      <DependentUpon>LogInUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RolesUI.resx">
+      <DependentUpon>RolesUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\SplashScreenUI.resx">
+      <DependentUpon>SplashScreenUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\SystemRoleUI.resx">
+      <DependentUpon>SystemRoleUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TermminalUI.resx">
+      <DependentUpon>TermminalUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\UserUI.resx">
+      <DependentUpon>UserUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\F_Plus_Splash11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TouchScreen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accouting.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Administrator.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Engineering.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FrontDesk.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Housekeeping.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sales.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cashier.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FP_splash_screen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lbl_bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FP_splash_screen1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FP_splash_screen2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

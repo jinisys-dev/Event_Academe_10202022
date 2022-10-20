@@ -1,0 +1,484 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{115CB2F7-D2F9-4402-9032-95056DA25528}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jinisys.Hotel.AccountingInterface</RootNamespace>
+    <AssemblyName>AccountingInterface</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <Win32Resource>
+    </Win32Resource>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Main\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accounts, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="BusinessSharedClasses, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Main\BusinessSharedClasses.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Win.C1FlexGrid.Classic.dll</HintPath>
+    </Reference>
+    <Reference Include="ConfigurationHotel, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="ExpandableGridView, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="ListViewEx, Version=1.0.1753.24378, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\ListViewEx.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLayer\BackOfficeConfig.cs" />
+    <Compile Include="BusinessLayer\BackOfficeConfigFacade.cs" />
+    <Compile Include="BusinessLayer\CityLedgerFacade.cs" />
+    <Compile Include="BusinessLayer\CityLeger.cs" />
+    <Compile Include="BusinessLayer\ExactFacade.cs" />
+    <Compile Include="DataAccessLayer\BackOfficeConfigDAO.cs" />
+    <Compile Include="DataAccessLayer\CityLedgerDAO.cs" />
+    <Compile Include="DataAccessLayer\ExactDAO.cs" />
+    <Compile Include="DataAccessLayer\Navision_Interface\Navision_Interface_DAO.cs" />
+    <Compile Include="ExactGlobe_Interface\CostCenter.cs" />
+    <Compile Include="ExactGlobe_Interface\CostCenterDAO.cs" />
+    <Compile Include="ExactGlobe_Interface\GLAccounts.cs" />
+    <Compile Include="ExactGlobe_Interface\GLAccountsDAO.cs" />
+    <Compile Include="ExactGlobe_Interface\JournalEntryCode.cs" />
+    <Compile Include="ExactGlobe_Interface\JournalEntryCodeDAO.cs" />
+    <Compile Include="ExactGlobe_Interface\TransactionCodeMapping.cs" />
+    <Compile Include="ExactGlobe_Interface\TransactionCodeMappingDAO.cs" />
+    <Compile Include="Navision_Interface\Gen_Journal_Line.cs" />
+    <Compile Include="Navision_Interface\Navision_Interface_Facade.cs" />
+    <Compile Include="Navision_Interface\Sales_Header.cs" />
+    <Compile Include="Navision_Interface\Sales_Line.cs" />
+    <Compile Include="Oracle\Oracle_Interface_Facade.cs" />
+    <Compile Include="Peachtree_Interface\PFolio_GLAccountMapping.cs" />
+    <Compile Include="Peachtree_Interface\PFolio_GLAccountMappingDAO.cs" />
+    <Compile Include="Peachtree_Interface\PGLAccount.cs" />
+    <Compile Include="Peachtree_Interface\PGLAccountDAO.cs" />
+    <Compile Include="Peachtree_Interface\PTemplate.cs" />
+    <Compile Include="Peachtree_Interface\PTemplateDAO.cs" />
+    <Compile Include="Peachtree_Interface\PTemplateField.cs" />
+    <Compile Include="Peachtree_Interface\PTransactionCodeMapping.cs" />
+    <Compile Include="Peachtree_Interface\PTransactionCodeMappingDAO.cs" />
+    <Compile Include="Peachtree_Interface\TemplateFacade.cs" />
+    <Compile Include="Presentation\AccountingSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AccountingSetup.Designer.cs">
+      <DependentUpon>AccountingSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerDetailsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerDetailsUI.Designer.cs">
+      <DependentUpon>CityLedgerDetailsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerPaymentUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerPaymentUI.Designer.cs">
+      <DependentUpon>CityLedgerPaymentUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CityLedgerUI.Designer.cs">
+      <DependentUpon>CityLedgerUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CostCenterCodesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CostCenterCodesUI.Designer.cs">
+      <DependentUpon>CostCenterCodesUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CostCenterUI_ExactGlobe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CostCenterUI_ExactGlobe.Designer.cs">
+      <DependentUpon>CostCenterUI_ExactGlobe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Exact_CostCenterUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Exact_CostCenterUI.Designer.cs">
+      <DependentUpon>Exact_CostCenterUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Exact_GLchartOfAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Exact_GLchartOfAccounts.Designer.cs">
+      <DependentUpon>Exact_GLchartOfAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Exact_IntegrationSetupUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Exact_IntegrationSetupUI.Designer.cs">
+      <DependentUpon>Exact_IntegrationSetupUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Exact_JournalEntryCodesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Exact_JournalEntryCodesUI.Designer.cs">
+      <DependentUpon>Exact_JournalEntryCodesUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Exact_NewEntryTransactionCodeMappingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Exact_NewEntryTransactionCodeMappingUI.Designer.cs">
+      <DependentUpon>Exact_NewEntryTransactionCodeMappingUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Exact_TransactionCodeMappingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Exact_TransactionCodeMappingUI.Designer.cs">
+      <DependentUpon>Exact_TransactionCodeMappingUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GLAccountsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GLAccountsUI.Designer.cs">
+      <DependentUpon>GLAccountsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GLchartOfAccounts_ExactGlobe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GLchartOfAccounts_ExactGlobe.Designer.cs">
+      <DependentUpon>GLchartOfAccounts_ExactGlobe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\IntegrationSetupUI_ExactGlobe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\IntegrationSetupUI_ExactGlobe.Designer.cs">
+      <DependentUpon>IntegrationSetupUI_ExactGlobe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\JournalEntryCodesUI_ExactGlobe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\JournalEntryCodesUI_ExactGlobe.Designer.cs">
+      <DependentUpon>JournalEntryCodesUI_ExactGlobe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\NewCityLederEntryUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\NewCityLederEntryUI.Designer.cs">
+      <DependentUpon>NewCityLederEntryUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\NewEntry_TransactionCodeMapping_ExactGlobeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\NewEntry_TransactionCodeMapping_ExactGlobeUI.Designer.cs">
+      <DependentUpon>NewEntry_TransactionCodeMapping_ExactGlobeUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Peachtree_FolioAccountMapping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Peachtree_FolioAccountMapping.Designer.cs">
+      <DependentUpon>Peachtree_FolioAccountMapping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Peachtree_IntegrationSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Peachtree_IntegrationSetup.Designer.cs">
+      <DependentUpon>Peachtree_IntegrationSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Peachtree_GLAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Peachtree_GLAccounts.Designer.cs">
+      <DependentUpon>Peachtree_GLAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Peachtree_Templates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Peachtree_Templates.Designer.cs">
+      <DependentUpon>Peachtree_Templates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\PostToAccountingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\PostToAccountingUI.Designer.cs">
+      <DependentUpon>PostToAccountingUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\QuickBooks_AddGLAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\QuickBooks_AddGLAccount.Designer.cs">
+      <DependentUpon>QuickBooks_AddGLAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Quickbooks_AddMapping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Quickbooks_AddMapping.Designer.cs">
+      <DependentUpon>Quickbooks_AddMapping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Quickbooks_IntegrationSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Quickbooks_IntegrationSetup.Designer.cs">
+      <DependentUpon>Quickbooks_IntegrationSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\SAP_GLAccountMappingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\SAP_GLAccountMappingUI.Designer.cs">
+      <DependentUpon>SAP_GLAccountMappingUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\SAP_GLAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\SAP_GLAccounts.Designer.cs">
+      <DependentUpon>SAP_GLAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\SAP_IntegrationSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\SAP_IntegrationSetup.Designer.cs">
+      <DependentUpon>SAP_IntegrationSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\TranCode_GLAccountSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TranCode_GLAccountSetup.Designer.cs">
+      <DependentUpon>TranCode_GLAccountSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\TransactionCodeMappingUI_ExactGlobe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TransactionCodeMappingUI_ExactGlobe.Designer.cs">
+      <DependentUpon>TransactionCodeMappingUI_ExactGlobe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Quickbooks_Interface\QuickBooks_GLAccount.cs" />
+    <Compile Include="Quickbooks_Interface\QuickBooks_GLAccountDAO.cs" />
+    <Compile Include="Quickbooks_Interface\QuickBooks_Mapping.cs" />
+    <Compile Include="Quickbooks_Interface\QuickBooks_MappingDAO.cs" />
+    <Compile Include="SAP_Interface\Folio_GLAccountMappingDAO.cs" />
+    <Compile Include="SAP_Interface\Folio_GLAccountMapping.cs" />
+    <Compile Include="SAP_Interface\GLAccountDAO.cs" />
+    <Compile Include="SAP_Interface\GLAccount.cs" />
+    <Compile Include="SAP_Interface\Template.cs" />
+    <Compile Include="SAP_Interface\TemplateDAO.cs" />
+    <Compile Include="SAP_Interface\TemplateField.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Presentation\AccountingSetup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AccountingSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CityLedgerDetailsUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CityLedgerDetailsUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CityLedgerPaymentUI.resx">
+      <DependentUpon>CityLedgerPaymentUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CityLedgerUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CityLedgerUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CostCenterCodesUI.resx">
+      <DependentUpon>CostCenterCodesUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CostCenterUI_ExactGlobe.resx">
+      <DependentUpon>CostCenterUI_ExactGlobe.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Exact_CostCenterUI.resx">
+      <DependentUpon>Exact_CostCenterUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Exact_GLchartOfAccounts.resx">
+      <DependentUpon>Exact_GLchartOfAccounts.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Exact_IntegrationSetupUI.resx">
+      <DependentUpon>Exact_IntegrationSetupUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Exact_JournalEntryCodesUI.resx">
+      <DependentUpon>Exact_JournalEntryCodesUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Exact_NewEntryTransactionCodeMappingUI.resx">
+      <DependentUpon>Exact_NewEntryTransactionCodeMappingUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Exact_TransactionCodeMappingUI.resx">
+      <DependentUpon>Exact_TransactionCodeMappingUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GLAccountsUI.resx">
+      <DependentUpon>GLAccountsUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GLchartOfAccounts_ExactGlobe.resx">
+      <DependentUpon>GLchartOfAccounts_ExactGlobe.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\IntegrationSetupUI_ExactGlobe.resx">
+      <DependentUpon>IntegrationSetupUI_ExactGlobe.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\JournalEntryCodesUI_ExactGlobe.resx">
+      <DependentUpon>JournalEntryCodesUI_ExactGlobe.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\NewCityLederEntryUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NewCityLederEntryUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\NewEntry_TransactionCodeMapping_ExactGlobeUI.resx">
+      <DependentUpon>NewEntry_TransactionCodeMapping_ExactGlobeUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Peachtree_FolioAccountMapping.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Peachtree_FolioAccountMapping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Peachtree_IntegrationSetup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Peachtree_IntegrationSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Peachtree_GLAccounts.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Peachtree_GLAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Peachtree_Templates.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Peachtree_Templates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\PostToAccountingUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PostToAccountingUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\QuickBooks_AddGLAccount.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>QuickBooks_AddGLAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Quickbooks_AddMapping.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quickbooks_AddMapping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Quickbooks_IntegrationSetup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Quickbooks_IntegrationSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\SAP_GLAccountMappingUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SAP_GLAccountMappingUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\SAP_GLAccounts.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SAP_GLAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\SAP_IntegrationSetup.resx">
+      <DependentUpon>SAP_IntegrationSetup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TranCode_GLAccountSetup.resx">
+      <DependentUpon>TranCode_GLAccountSetup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TransactionCodeMappingUI_ExactGlobe.resx">
+      <DependentUpon>TransactionCodeMappingUI_ExactGlobe.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\newGroupPostIconStrip.bmp" />
+    <None Include="Resources\SAP_logo21.jpg" />
+    <None Include="Resources\SAP_logo2.jpg" />
+    <None Include="Resources\SAP_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cdAccountingInterface.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Reports\Reports.csproj">
+      <Project>{3151A2D7-510E-4645-A03F-E5394862FD80}</Project>
+      <Name>Reports</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reservation\Reservation.csproj">
+      <Project>{25C5F1FA-A6FD-4578-AA6D-97C5BA671258}</Project>
+      <Name>Reservation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Security\Security.csproj">
+      <Project>{468E6722-051D-4E6D-ADFF-C8C2069B5B02}</Project>
+      <Name>Security</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

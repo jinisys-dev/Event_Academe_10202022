@@ -1,0 +1,228 @@
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Folio Plus.exe.config
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Folio Plus.exe.manifest
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Folio Plus.application
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Folio Plus.exe
+D:\SUBVERSION FILES\FOLIO PLUS\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\ApplicationStarter\obj\Debug\Folio Plus.exe.manifest
+D:\SUBVERSION FILES\FOLIO PLUS\ApplicationStarter\obj\Debug\Folio Plus.application
+D:\SUBVERSION FILES\FOLIO PLUS\ApplicationStarter\obj\Debug\Folio Plus.exe
+D:\SUBVERSION FILES\FOLIO PLUS\ApplicationStarter\obj\Debug\Folio Plus.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\ApplicationStarter\obj\Release\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\ApplicationStarter\obj\Release\Folio Plus.exe.manifest
+D:\SUBVERSION FILES\FOLIO PLUS\ApplicationStarter\obj\Release\Folio Plus.application
+D:\SUBVERSION FILES\FOLIO PLUS\ApplicationStarter\obj\Release\Folio Plus.exe
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Folio Plus.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Folio Plus.exe.config
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Folio Plus.exe.manifest
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Folio Plus.application
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Folio Plus.exe
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Folio Plus.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.exe.manifest
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.application
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.exe
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.pdb
+D:\PAX\Folio Plus\Main\Folio Plus.exe.config
+D:\PAX\Folio Plus\Main\Folio Plus.exe.manifest
+D:\PAX\Folio Plus\Main\Folio Plus.application
+D:\PAX\Folio Plus\Main\Folio Plus.exe
+D:\PAX\Folio Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.exe.manifest
+D:\PAX\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.application
+D:\PAX\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.exe
+D:\PAX\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.pdb
+D:\PAX\Folio Plus\ApplicationStarter\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\ApplicationStarter\obj\Release\Folio Plus.exe.manifest
+D:\PAX\Folio Plus\ApplicationStarter\obj\Release\Folio Plus.application
+D:\PAX\Folio Plus\ApplicationStarter\obj\Release\Folio Plus.exe
+D:\PAX\Folio Plus\Main\Folio Plus.pdb
+D:\PAX\Source\Folio Plus\Main\Folio Plus.exe.config
+D:\PAX\Source\Folio Plus\Main\Folio Plus.exe.manifest
+D:\PAX\Source\Folio Plus\Main\Folio Plus.application
+D:\PAX\Source\Folio Plus\Main\Folio Plus.exe
+D:\PAX\Source\Folio Plus\ApplicationStarter\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\ApplicationStarter\obj\Release\Folio Plus.exe.manifest
+D:\PAX\Source\Folio Plus\ApplicationStarter\obj\Release\Folio Plus.application
+D:\PAX\Source\Folio Plus\ApplicationStarter\obj\Release\Folio Plus.exe
+D:\PAX\Source\Folio Plus\Main\Folio Plus.pdb
+D:\PAX\Source\Folio Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.exe.manifest
+D:\PAX\Source\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.application
+D:\PAX\Source\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.exe
+D:\PAX\Source\Folio Plus\ApplicationStarter\obj\Debug\Folio Plus.pdb
+F:\PsYMoN\projects\Event Plus\Main\Event Plus.exe.config
+F:\PsYMoN\projects\Event Plus\Main\Event Plus.exe.manifest
+F:\PsYMoN\projects\Event Plus\Main\Event Plus.application
+F:\PsYMoN\projects\Event Plus\Main\Event Plus.exe
+F:\PsYMoN\projects\Event Plus\Main\Event Plus.pdb
+F:\PsYMoN\projects\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+F:\PsYMoN\projects\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+F:\PsYMoN\projects\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+F:\PsYMoN\projects\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+F:\PsYMoN\projects\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+D:\Event Plus\Main\Event Plus.exe.config
+D:\Event Plus\Main\Event Plus.exe.manifest
+D:\Event Plus\Main\Event Plus.application
+D:\Event Plus\Main\Event Plus.exe
+D:\Event Plus\Main\Event Plus.pdb
+D:\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+D:\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+D:\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+D:\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Event Plus.exe.config
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Event Plus.exe.manifest
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Event Plus.application
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Event Plus.exe
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Event Plus.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+C:\Documents and Settings\Clark\Desktop\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+C:\Documents and Settings\Clark\Desktop\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+C:\Documents and Settings\Clark\Desktop\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Event Plus.exe.config
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Event Plus.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Event Plus.application
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Event Plus.exe
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Event Plus.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+D:\FILES\Jinisys Softwares\Event Plus\Main\Event Plus.exe.config
+D:\FILES\Jinisys Softwares\Event Plus\Main\Event Plus.exe.manifest
+D:\FILES\Jinisys Softwares\Event Plus\Main\Event Plus.application
+D:\FILES\Jinisys Softwares\Event Plus\Main\Event Plus.exe
+D:\FILES\Jinisys Softwares\Event Plus\Main\Event Plus.pdb
+D:\FILES\Jinisys Softwares\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\FILES\Jinisys Softwares\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+D:\FILES\Jinisys Softwares\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+D:\FILES\Jinisys Softwares\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+D:\FILES\Jinisys Softwares\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+F:\Clark\Event Plus\Main\Event Plus.exe.config
+F:\Clark\Event Plus\Main\Event Plus.exe.manifest
+F:\Clark\Event Plus\Main\Event Plus.application
+F:\Clark\Event Plus\Main\Event Plus.exe
+F:\Clark\Event Plus\Main\Event Plus.pdb
+F:\Clark\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+F:\Clark\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+F:\Clark\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+F:\Clark\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+F:\Clark\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+C:\Users\Gene\Desktop\Event Plus\Main\Event Plus.exe.config
+C:\Users\Gene\Desktop\Event Plus\Main\Event Plus.exe.manifest
+C:\Users\Gene\Desktop\Event Plus\Main\Event Plus.application
+C:\Users\Gene\Desktop\Event Plus\Main\Event Plus.exe
+C:\Users\Gene\Desktop\Event Plus\Main\Event Plus.pdb
+C:\Users\Gene\Desktop\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gene\Desktop\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+C:\Users\Gene\Desktop\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+C:\Users\Gene\Desktop\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+C:\Users\Gene\Desktop\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+E:\Event Plus\Main\Event Plus.exe.config
+E:\Event Plus\Main\Event Plus.exe.manifest
+E:\Event Plus\Main\Event Plus.application
+E:\Event Plus\Main\Event Plus.exe
+E:\Event Plus\Main\Event Plus.pdb
+E:\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+E:\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+E:\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+E:\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+E:\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Event Plus.exe.config
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Event Plus.exe.manifest
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Event Plus.application
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Event Plus.exe
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Event Plus.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+C:\Users\jinisys\Documents\Received Files\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+C:\Users\jinisys\Documents\Received Files\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+C:\Users\jinisys\Documents\Received Files\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Event Plus.exe.config
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Event Plus.exe.manifest
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Event Plus.application
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Event Plus.exe
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Event Plus.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+C:\Users\jinisys\Desktop\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+C:\Users\jinisys\Desktop\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+C:\Users\jinisys\Desktop\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+D:\PICC integration\PICC\Event Plus\Main\Event Plus.exe.config
+D:\PICC integration\PICC\Event Plus\Main\Event Plus.exe.manifest
+D:\PICC integration\PICC\Event Plus\Main\Event Plus.application
+D:\PICC integration\PICC\Event Plus\Main\Event Plus.exe
+D:\PICC integration\PICC\Event Plus\Main\Event Plus.pdb
+D:\PICC integration\PICC\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+D:\PICC integration\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+D:\PICC integration\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+D:\PICC integration\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Event Plus.exe.config
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Event Plus.exe.manifest
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Event Plus.application
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Event Plus.exe
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Event Plus.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.exe.config
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.exe.manifest
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.application
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.exe
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.exe.config
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.exe.manifest
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.application
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.exe
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Event Plus.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\ApplicationStarter\obj\Debug\ApplicationStarter.Presentation.DatabasePicker.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\ApplicationStarter\obj\Debug\ApplicationStarter.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Event Plus.exe.config
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Event Plus.exe.manifest
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Event Plus.application
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Event Plus.exe
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Event Plus.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Event Plus.exe.config
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Event Plus.exe.manifest
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Event Plus.application
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Event Plus.exe
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Event Plus.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\ApplicationStarter.Presentation.DatabasePicker.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\ApplicationStarter.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Event Plus.exe.config
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Event Plus.exe.manifest
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Event Plus.application
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Event Plus.exe
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Event Plus.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\ApplicationStarter.Presentation.DatabasePicker.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\ApplicationStarter.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe.manifest
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.application
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.exe
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\ApplicationStarter\obj\Debug\Event Plus.pdb

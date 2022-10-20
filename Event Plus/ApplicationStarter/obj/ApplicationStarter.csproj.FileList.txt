@@ -1,0 +1,10 @@
+..\Main\Event Plus.exe.config
+..\Main\Event Plus.exe.manifest
+..\Main\Event Plus.application
+..\Main\Event Plus.exe
+..\Main\Event Plus.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Event Plus.exe.manifest
+obj\Debug\Event Plus.application
+obj\Debug\Event Plus.exe
+obj\Debug\Event Plus.pdb

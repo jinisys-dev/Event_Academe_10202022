@@ -1,0 +1,200 @@
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Services.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Services.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Services.dll.licenses
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Services.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Services\obj\Debug\Services.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Services.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Services.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Services.dll.licenses
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Services.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Services\obj\Debug\Services.pdb
+D:\PICC integration\PICC\Event Plus\Main\Services.dll
+D:\PICC integration\PICC\Event Plus\Main\Services.pdb
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Services.dll.licenses
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Services.dll
+D:\PICC integration\PICC\Event Plus\Services\obj\Debug\Services.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Services.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Services.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Services.dll.licenses
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Services.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Services\obj\Debug\Services.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Services.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Services.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Services.dll.licenses
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Services.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Services.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Services.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Services.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Services.dll.licenses
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Services.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Services\obj\Debug\Services.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Services.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Services.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Services.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Services.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Services\obj\Debug\Services.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Services.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Services.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Services.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Services.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Services\obj\Debug\Services.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Services.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Services.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Services.dll.licenses
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Services.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Services.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Services.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Services.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringJob.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.EngineeringService.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HouseKeeper.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.BusinessLayer.HousekeepingJob.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringJobUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.EngineeringServiceUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeeperUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingTypeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HousekeepingUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.AddRemark.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.HouseKeepingLogUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Presentation.ServicesLookUpUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Jinisys.Hotel.Services.Properties.Resources.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Services.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Services.dll.licenses
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Services.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Services\obj\Debug\Services.pdb

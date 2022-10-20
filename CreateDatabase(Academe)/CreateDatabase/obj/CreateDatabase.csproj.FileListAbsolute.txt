@@ -1,0 +1,52 @@
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.exe
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.pdb
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\bin\Debug\hotel.sql
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\bin\Debug\resto.sql
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\bin\Debug\CreateDatabase.exe
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\bin\Debug\CreateDatabase.pdb
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\obj\Debug\ResolveAssemblyReference.cache
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.frmCreateDatabase.resources
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.Properties.Resources.resources
+F:\PsYMoN\projects\CreateDatabase\CreateDatabase\obj\Debug\CreateDatabase.csproj.GenerateResource.Cache
+D:\Gene\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.exe
+D:\Gene\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.pdb
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.exe
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.pdb
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\bin\Debug\hotel.sql
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\bin\Debug\resto.sql
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\bin\Debug\CreateDatabase.exe
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\bin\Debug\CreateDatabase.pdb
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.frmCreateDatabase.resources
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.Properties.Resources.resources
+E:\Academe 2\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.csproj.GenerateResource.Cache
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.exe
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.pdb
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\bin\Debug\hotel.sql
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\bin\Debug\resto.sql
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\bin\Debug\CreateDatabase.exe
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\bin\Debug\CreateDatabase.pdb
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.frmCreateDatabase.resources
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.Properties.Resources.resources
+E:\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.csproj.GenerateResource.Cache
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.exe
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.pdb
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\bin\Debug\hotel.sql
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\bin\Debug\resto.sql
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\bin\Debug\CreateDatabase.exe
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\bin\Debug\CreateDatabase.pdb
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.frmCreateDatabase.resources
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.Properties.Resources.resources
+D:\Academe\Academe 3\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.exe
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.frmCreateDatabase.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\obj\Debug\CreateDatabase.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\bin\Debug\hotel.sql
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\bin\Debug\resto.sql
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\bin\Debug\CreateDatabase.exe
+D:\Jinisys Software, Inc\Folio Academe\Academe\CreateDatabase(Academe)\CreateDatabase\bin\Debug\CreateDatabase.pdb

@@ -1,0 +1,49 @@
+bin\Debug\FolioPlusCallLoggerService.exe.config
+bin\Debug\FolioPlusCallLoggerService.exe
+bin\Debug\FolioPlusCallLoggerService.pdb
+bin\Debug\Accounts.dll
+bin\Debug\BusinessSharedClasses.dll
+bin\Debug\ConfigurationHotel.dll
+bin\Debug\Reservation.dll
+Folio_Plus_Call_Logger_Service\FolioPlusCallLoggerService.exe.config
+Folio_Plus_Call_Logger_Service\FolioPlusCallLoggerService.exe
+Folio_Plus_Call_Logger_Service\FolioPlusCallLoggerService.pdb
+Folio_Plus_Call_Logger_Service\Accounts.dll
+Folio_Plus_Call_Logger_Service\BusinessSharedClasses.dll
+Folio_Plus_Call_Logger_Service\ConfigurationHotel.dll
+Folio_Plus_Call_Logger_Service\Reservation.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Jinisys.FolioPlusCallLogger.BusinessLayer.CallCharge.resources
+obj\Debug\Folio_Plus_Call_Logger_Service.CallLoggerService.resources
+obj\Debug\Folio_Plus_Call_Logger_Service.ProjectInstaller.resources
+obj\Debug\FolioPlusCallLoggerService.csproj.GenerateResource.Cache
+obj\Debug\FolioPlusCallLoggerService.exe
+obj\Debug\FolioPlusCallLoggerService.pdb
+Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe.config
+Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+Call Plus to Folio Logger Service\FolioPlusCallLoggerService.pdb
+Call Plus to Folio Logger Service\Accounts.dll
+Call Plus to Folio Logger Service\BusinessSharedClasses.dll
+Call Plus to Folio Logger Service\ConfigurationHotel.dll
+Call Plus to Folio Logger Service\Reservation.dll
+Call Plus to Folio Logger Service\Utilities.dll
+Call Plus to Folio Logger Service\C1.Win.C1FlexGrid.dll
+Call Plus to Folio Logger Service\ListViewEx.dll
+Call Plus to Folio Logger Service\WebCam_Capture.dll
+Call Plus to Folio Logger Service\C1.Win.C1FlexGrid.Classic.dll
+Call Plus to Folio Logger Service\Cashier.dll
+Call Plus to Folio Logger Service\C1.Common.dll
+Call Plus to Folio Logger Service\UIFramework.dll
+Call Plus to Folio Logger Service\Security.dll
+Call Plus to Folio Logger Service\NightAudit.dll
+Call Plus to Folio Logger Service\Services.dll
+Call Plus to Folio Logger Service\Reports.dll
+Call Plus to Folio Logger Service\Utilities.pdb
+Call Plus to Folio Logger Service\C1.Win.C1FlexGrid.xml
+Call Plus to Folio Logger Service\Cashier.pdb
+Call Plus to Folio Logger Service\UIFramework.pdb
+Call Plus to Folio Logger Service\Security.pdb
+Call Plus to Folio Logger Service\NightAudit.pdb
+Call Plus to Folio Logger Service\Services.pdb
+Call Plus to Folio Logger Service\Reservation.pdb
+Call Plus to Folio Logger Service\Reports.pdb

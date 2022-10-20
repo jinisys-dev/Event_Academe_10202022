@@ -1,0 +1,17 @@
+Jinisys Software, Incorporated
+empowers the enterprise
+
+
+
+Files stored in this folder are database backup files.
+File names are formated according to date(YYYYMMdd).
+
+There should be 2 database backup files every date entry. That is,
+After night audit process and prior to processing the next night audit.
+
+
+
+Copyright © 2009
+Jinisys Software, Inc
+Cebu City Philippines 6000
+Tel No. (6332) 4158647

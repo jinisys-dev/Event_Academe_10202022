@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<assembliesCollection>
+  <reservation>../main/reservation.dll</reservation>
+  <accounts>../main/Accounts.dll</accounts>
+  <cashier>../main/Cashier.dll</cashier>
+  <security>../main/Security.dll</security>
+  <utilities>../main/Utilities.dll</utilities>
+  <services>../main/Services.dll</services>
+  <reports>../main/Reports.dll</reports>
+  <nightaudit>../main/NightAudit.dll</nightaudit>
+  <configuration>../main/ConfigurationHotel.dll</configuration>
+<AccountingInterface>../main/AccountingInterface.dll</AccountingInterface>
+</assembliesCollection>
+
+

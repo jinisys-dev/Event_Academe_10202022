@@ -1,0 +1,372 @@
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Accounts.dll.licenses
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Accounts.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Release\Accounts.dll.licenses
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Accounts.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Main\Accounts.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Accounts.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Accounts\obj\Debug\Accounts.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Accounts.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\Accounts.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Accounts.dll.licenses
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Accounts.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Accounts\obj\Debug\Accounts.pdb
+D:\PAX\Folio Plus\Main\Accounts.dll
+D:\PAX\Folio Plus\Main\Accounts.pdb
+D:\PAX\Folio Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\PAX\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\PAX\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\PAX\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Accounts\obj\Debug\Accounts.dll.licenses
+D:\PAX\Folio Plus\Accounts\obj\Debug\Accounts.dll
+D:\PAX\Folio Plus\Accounts\obj\Debug\Accounts.pdb
+D:\PAX\Folio Plus\Accounts\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\PAX\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\PAX\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\PAX\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\PAX\Folio Plus\Accounts\obj\Release\Accounts.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Accounts\obj\Release\Accounts.dll.licenses
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Accounts.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Accounts\obj\Release\Accounts.dll.licenses
+D:\PAX\Source\Folio Plus\Main\Accounts.dll
+D:\PAX\Source\Folio Plus\Main\Accounts.pdb
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Accounts.dll.licenses
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Accounts.dll
+D:\PAX\Source\Folio Plus\Accounts\obj\Debug\Accounts.pdb
+F:\PsYMoN\projects\Event Plus\Main\Accounts.dll
+F:\PsYMoN\projects\Event Plus\Main\Accounts.pdb
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Accounts.dll
+F:\PsYMoN\projects\Event Plus\Accounts\obj\Debug\Accounts.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Accounts.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\Accounts.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Accounts.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Accounts\obj\Debug\Accounts.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Accounts.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\Accounts.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Accounts.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Accounts\obj\Debug\Accounts.pdb
+F:\Clark\Event Plus\Main\Accounts.dll
+F:\Clark\Event Plus\Main\Accounts.pdb
+F:\Clark\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+F:\Clark\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+F:\Clark\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+F:\Clark\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+F:\Clark\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+F:\Clark\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+F:\Clark\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+F:\Clark\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+F:\Clark\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+F:\Clark\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+F:\Clark\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+F:\Clark\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+F:\Clark\Event Plus\Accounts\obj\Debug\Accounts.dll
+F:\Clark\Event Plus\Accounts\obj\Debug\Accounts.pdb
+C:\Users\Gene\Desktop\Event Plus\Main\Accounts.dll
+C:\Users\Gene\Desktop\Event Plus\Main\Accounts.pdb
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Accounts.dll
+C:\Users\Gene\Desktop\Event Plus\Accounts\obj\Debug\Accounts.pdb
+E:\Event Plus\Main\Accounts.dll
+E:\Event Plus\Main\Accounts.pdb
+E:\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+E:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+E:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+E:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+E:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+E:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+E:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+E:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+E:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+E:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+E:\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+E:\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+E:\Event Plus\Accounts\obj\Debug\Accounts.dll
+E:\Event Plus\Accounts\obj\Debug\Accounts.pdb
+D:\Event Plus\Main\Accounts.dll
+D:\Event Plus\Main\Accounts.pdb
+D:\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+D:\Event Plus\Accounts\obj\Debug\Accounts.dll
+D:\Event Plus\Accounts\obj\Debug\Accounts.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Accounts.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Accounts.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Accounts.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Accounts\obj\Debug\Accounts.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Accounts.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Accounts.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Accounts\obj\Debug\Accounts.pdb
+D:\PICC integration\PICC\Event Plus\Main\Accounts.dll
+D:\PICC integration\PICC\Event Plus\Main\Accounts.pdb
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll
+D:\PICC integration\PICC\Event Plus\Accounts\obj\Debug\Accounts.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Accounts.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Accounts.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Accounts\obj\Debug\Accounts.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Accounts.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Accounts.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Accounts.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Accounts.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Accounts.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Accounts.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Accounts\obj\Debug\Accounts.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Accounts.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Accounts.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Accounts.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Accounts\obj\Debug\Accounts.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Accounts.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Accounts.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Accounts.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Accounts.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Accounts.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Accounts.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Agent.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Company.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.BusinessLayer.Guest.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AccountListUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.AgentUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.CompanyUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.GuestUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeAccountUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Jinisys.Hotel.Accounts.Presentation.MergeCompanyAccountUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.dll.licenses
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Accounts\obj\Debug\Accounts.pdb

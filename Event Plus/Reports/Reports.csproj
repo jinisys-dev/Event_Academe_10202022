@@ -1,0 +1,1776 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3151A2D7-510E-4645-A03F-E5394862FD80}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jinisys.Hotel.Reports</RootNamespace>
+    <AssemblyName>Reports</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Main\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\Main\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BusinessSharedClasses, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948" />
+    <Reference Include="C1.Win.C1FlexGrid, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da" />
+    <Reference Include="ConfigurationHotel, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Interop.VSFlex7, Version=1.0.0.0, Culture=neutral" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.Office.Interop.Word, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="Microsoft.VisualBasic">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MSDATASRC, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIFramework, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bussiness Logic\CrystalReportAddons.cs" />
+    <Compile Include="Bussiness Logic\ReportFacade.cs" />
+    <Compile Include="Bussiness Logic\Data Access\ReportDAO.cs" />
+    <Compile Include="Presentation\AvailabilityOfRoomsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AvailabilityOfRoomsUI.Designer.cs">
+      <DependentUpon>AvailabilityOfRoomsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\BookingAndInquiriesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\HistoricalEventsAndRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\HistoricalEventsAndRevenue.Designer.cs">
+      <DependentUpon>HistoricalEventsAndRevenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\LostBusinessUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\LostBusinessUI.Designer.cs">
+      <DependentUpon>LostBusinessUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\MarketSegmentUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MarketSegmentUI.Designer.cs">
+      <DependentUpon>MarketSegmentUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\NumberOfEventsAndRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\NumberOfEventsAndRevenue.Designer.cs">
+      <DependentUpon>NumberOfEventsAndRevenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\BookingSheetDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\BookingSheetDepartment.Designer.cs">
+      <DependentUpon>BookingSheetDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CalendarOfEventsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CalendarOfEventsUI.Designer.cs">
+      <DependentUpon>CalendarOfEventsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ChangeLogUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ChangeLogUI.Designer.cs">
+      <DependentUpon>ChangeLogUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\DailyHotelRevenueUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\DailyHotelRevenueUI.Designer.cs">
+      <DependentUpon>DailyHotelRevenueUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\EventOrderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\EventOrderUI.Designer.cs">
+      <DependentUpon>EventOrderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\HotelRevenueUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\HotelRevenueUI.Designer.cs">
+      <DependentUpon>HotelRevenueUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HKReportByHousekeeper.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HKReportByHousekeeper.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HKReportViewerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HKReportViewerUI.designer.cs">
+      <DependentUpon>HKReportViewerUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HousekeeperSummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HousekeeperSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HousekeepingReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HousekeepingReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HousekeepingSummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HousekeepingSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\ItemsTypePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\ItemsTypePanel.designer.cs">
+      <DependentUpon>ItemsTypePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarItemsList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MinibarItemsList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarSalesByCategory.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MinibarSalesByCategory.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarSalesByHousekeeper.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MinibarSalesByHousekeeper.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarSalesByRoom.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MinibarSalesByRoom.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\rptMinibarSalesRange.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptMinibarSalesRange.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\NumberOfEventsAndRevenue_old.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\NumberOfEventsAndRevenue_old.Designer.cs">
+      <DependentUpon>NumberOfEventsAndRevenue_old.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\OccupancyForecastUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\OccupancyForecastUI.Designer.cs">
+      <DependentUpon>OccupancyForecastUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\PaymentOrderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\PaymentOrderUI.Designer.cs">
+      <DependentUpon>PaymentOrderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\AllIndividualFolio.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AllIndividualFolio.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\ChangeLogReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ChangeLogReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\CompanyFolioBillPICC.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CompanyFolioBillPICC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\EstimatedChargesReport_old.cs">
+      <DependentUpon>EstimatedChargesReport_old.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\EstimatedChargesReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EstimatedChargesReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\GuestListByRateCode.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GuestListByRateCode.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\IndividualGuestBill.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IndividualGuestBill.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\Joiners.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Joiners.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\PaymentSlipReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PaymentSlipReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\StatementOfAccount.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StatementOfAccount.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\AccountingAdjustmentsReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AccountingAdjustmentsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\AccountReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AccountReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\AccountReport2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AccountReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\AllCashierShiftReport.cs">
+      <DependentUpon>AllCashierShiftReport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Presentation\CityTransferUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\CityTransferUI.Designer.cs">
+      <DependentUpon>CityTransferUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\InHouseForeCastUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\InHouseForeCastUI.Designer.cs">
+      <DependentUpon>InHouseForeCastUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\NoOfPax.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\NoOfPax.Designer.cs">
+      <DependentUpon>NoOfPax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ReportGeneratorUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ReportViewer.Designer.cs">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\CityLedgerReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CityLedgerReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\CityTransferTransactions.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CityTransferTransactions.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\CompanyFolioBill.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CompanyFolioBill.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\CompanyLedgerReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CompanyLedgerReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\DependentFolios.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DependentFolios.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\IndividualGuestBillWithoutTax.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IndividualGuestBillWithoutTax.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\ContactSubReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ContactSubReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\IncumbetSubReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IncumbetSubReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\EstimatedChargesReportSubReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EstimatedChargesReportSubReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\AlpaEventContract.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AlpaEventContract.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BillingArrangement.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BillingArrangement.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\CashierCheckOutReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CashierCheckOutReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\DailyTransactionsReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DailyTransactionsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\GuestLedgerReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GuestLedgerReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\HighBalanceGuestReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HighBalanceGuestReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\TransactionRegisterReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TransactionRegisterReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\AlpaContract.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AlpaContract.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BanquetEventContract.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BanquetEventContract.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BanquetEventContractMeals.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BanquetEventContractMeals.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BanquetEventContractRooms.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BanquetEventContractRooms.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BookingSheet.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookingSheet.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BookingSheetFoodAndBev.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookingSheetFoodAndBev.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BookingSheetMain.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookingSheetMain.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BookingSheetMaintenance.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookingSheetMaintenance.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BookingSheetRooms.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookingSheetRooms.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\BookingSheetWeddingDetails.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookingSheetWeddingDetails.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\CompanyTermsAndConditions.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CompanyTermsAndConditions.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\ContractAmendments.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ContractAmendments.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\ContractDetails.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ContractDetails.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\EstimateOfChargesReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EstimateOfChargesReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\Memorandum.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Memorandum.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\EventOrder.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EventOrder.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\EVentOrderSubContactPersons.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EVentOrderSubContactPersons.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\EventOrderSubPayments.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EventOrderSubPayments.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\EventOrderSubReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EventOrderSubReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\FolioEventRequirements.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FolioEventRequirements.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\EventTransactions.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EventTransactions.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\FolioInclusions.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FolioInclusions.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\FunctionRoomRates.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FunctionRoomRates.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\MealRequirements.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MealRequirements.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\MealRequirements2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MealRequirements2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\MemorandumSubReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MemorandumSubReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\PartyTermsAndConditions.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PartyTermsAndConditions.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\RoomingList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomingList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\RoomingListUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\RoomingListUI.Designer.cs">
+      <DependentUpon>RoomingListUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\RoomRequirements.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomRequirements.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\RoomReservationContract.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomReservationContract.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\StatisticalReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StatisticalReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\SummarizedMealRequirements.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SummarizedMealRequirements.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\SystemChanges.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SystemChanges.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Event Management\WeddingDetails.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WeddingDetails.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\ActualGuestArrival.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ActualGuestArrival.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\ActualGuestDeparture.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ActualGuestDeparture.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\CancelledGroupReports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CancelledGroupReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\CancelledReservationReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CancelledReservationReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\ContactPersonSubReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ContactPersonSubReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\ExpectedArrivalReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExpectedArrivalReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\ExpectedDepartureReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExpectedDepartureReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\GroupArrival.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GroupArrival.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\GroupDeparture.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GroupDeparture.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\GroupExpectedArrival.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GroupExpectedArrival.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\GroupInHouse.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GroupInHouse.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\GroupRegistrationForm_PICC.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GroupRegistrationForm_PICC.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\InHouseGuestsList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InHouseGuestsList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\OtherRequirementsSubReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OtherRequirementsSubReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\PrintGuestInformation.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintGuestInformation.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\RegistrationCard_Bahura.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RegistrationCard_Bahura.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\RegistrationCard_Koresco_Half.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RegistrationCard_Koresco_Half.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\RoomOccupancyReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomOccupancyReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\RoomTransferReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomTransferReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Front Desk\RoomUtilization.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomUtilization.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Housekeeping and Engineering\HousekeepingJobReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HousekeepingJobReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Housekeeping and Engineering\OutOfOrderRooms.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OutOfOrderRooms.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Housekeeping and Engineering\RoomStatusReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomStatusReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\MainImages.cs">
+      <DependentUpon>MainImages.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\MainImages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MainImages.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\DriverSales.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DriverSales.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\HighBalanceLetter.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HighBalanceLetter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\MarketSegmentReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MarketSegmentReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\NumberOfEventsAndRevenueReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NumberOfEventsAndRevenueReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\NumberOfEventsAndRevenueReportSub.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NumberOfEventsAndRevenueReportSub.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\OccupancyForecastReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OccupancyForecastReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\RoomAvailability.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomAvailability.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\RoomRevenueReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomRevenueReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\SalesExecutiveReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesExecutiveReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\SalesProductionReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesProductionReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\SalesReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Marketing And Sales\SalesSummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\MealRequirements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MealRequirements.Designer.cs">
+      <DependentUpon>MealRequirements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\MarketSegmentReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MarketSegmentReport.Designer.cs">
+      <DependentUpon>MarketSegmentReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\NonGuestTransactions\NonGuestPaidOutReport.cs">
+      <DependentUpon>NonGuestPaidOutReport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\NonGuestTransactions\NonGuestPaymentsReport.cs">
+      <DependentUpon>NonGuestPaymentsReport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\NonGuestTransactions\NonGuestChargesReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NonGuestChargesReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\NationalityReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\NationalityReport.Designer.cs">
+      <DependentUpon>NationalityReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Reservation\EndorsementForm.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EndorsementForm.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Reservation\EventAttendance_old.cs">
+      <DependentUpon>EventAttendance_old.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Reservation\EventAttendance.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EventAttendance.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Reservation\EventList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>EventList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Audit\GroupEstimatedCharge.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GroupEstimatedCharge.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Reservation\NationalityReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NationalityReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Reservation\NoOfPaxReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>NoOfPaxReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Reservation\RoomOccupancy.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomOccupancy.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Reservation\RoomOccupancyGraph.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RoomOccupancyGraph.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\ReportDateParamUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Cashier\VoidedTransactionsReport.cs">
+      <DependentUpon>VoidedTransactionsReport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Statistics\ActualVSBudgetReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ActualVSBudgetReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Statistics\HistoricalNoOfEventsAndRevenueReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HistoricalNoOfEventsAndRevenueReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Statistics\MarketSegmentReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MarketSegmentReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Statistics\PICC_RegularNewAndWinbackAccountsReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PICC_RegularNewAndWinbackAccountsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\Report_Documents\Statistics\TopClientsReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TopClientsReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomRevenueUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomRevenueUI.Designer.cs">
+      <DependentUpon>RoomRevenueUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\SalesAndMarketingRevenueUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\SalesAndMarketingRevenueUI.designer.cs">
+      <DependentUpon>SalesAndMarketingRevenueUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\StatisticAccountTypeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\StatisticAccountTypeUI.Designer.cs">
+      <DependentUpon>StatisticAccountTypeUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\StatisticalReportUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\StatisticalReportUI.Designer.cs">
+      <DependentUpon>StatisticalReportUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\TopClientsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TopClientsUI.Designer.cs">
+      <DependentUpon>TopClientsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\TransactionRegisterUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TransactionRegisterUI.Designer.cs">
+      <DependentUpon>TransactionRegisterUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\WeeklyScheduleUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\WeeklyScheduleUI.Designer.cs">
+      <DependentUpon>WeeklyScheduleUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Presentation\AvailabilityOfRoomsUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AvailabilityOfRoomsUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\BookingAndInquiriesUI.resx">
+      <DependentUpon>BookingAndInquiriesUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\HistoricalEventsAndRevenue.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HistoricalEventsAndRevenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\LostBusinessUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LostBusinessUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\BookingSheetDepartment.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BookingSheetDepartment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CalendarOfEventsUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CalendarOfEventsUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ChangeLogUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ChangeLogUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\DailyHotelRevenueUI.resx">
+      <DependentUpon>DailyHotelRevenueUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EventOrderUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EventOrderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\HotelRevenueUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HotelRevenueUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\HKReportByHousekeeper.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HKReportByHousekeeper.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\HKReportViewerUI.resx">
+      <DependentUpon>HKReportViewerUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\HousekeeperSummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HousekeeperSummary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\HousekeepingReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HousekeepingReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\HousekeepingSummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HousekeepingSummary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\ItemsTypePanel.resx">
+      <DependentUpon>ItemsTypePanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\MinibarItemsList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MinibarItemsList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\MinibarSalesByCategory.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MinibarSalesByCategory.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\MinibarSalesByHousekeeper.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MinibarSalesByHousekeeper.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\MinibarSalesByRoom.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MinibarSalesByRoom.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\rptMinibarSalesRange.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptMinibarSalesRange.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MarketSegmentUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MarketSegmentUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\NumberOfEventsAndRevenue.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NumberOfEventsAndRevenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\NumberOfEventsAndRevenue_old.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NumberOfEventsAndRevenue_old.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\OccupancyForecastUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OccupancyForecastUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\PaymentOrderUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PaymentOrderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\AllIndividualFolio.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AllIndividualFolio.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\ChangeLogReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ChangeLogReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\CompanyFolioBillPICC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CompanyFolioBillPICC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\EstimatedChargesReport_old.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EstimatedChargesReport_old.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\EstimatedChargesReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EstimatedChargesReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\GuestListByRateCode.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GuestListByRateCode.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\IndividualGuestBill.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IndividualGuestBill.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\Joiners.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Joiners.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\PaymentSlipReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PaymentSlipReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\StatementOfAccount.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StatementOfAccount.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\AccountingAdjustmentsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AccountingAdjustmentsReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\AccountReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AccountReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\AccountReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AccountReport2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\AllCashierShiftReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AllCashierShiftReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CityTransferUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CityTransferUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\InHouseForeCastUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>InHouseForeCastUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\NoOfPax.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NoOfPax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ReportGeneratorUI.resx">
+      <DependentUpon>ReportGeneratorUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ReportViewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\CityLedgerReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CityLedgerReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\CityTransferTransactions.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CityTransferTransactions.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\CompanyFolioBill.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CompanyFolioBill.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\CompanyLedgerReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CompanyLedgerReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\DependentFolios.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DependentFolios.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\IndividualGuestBillWithoutTax.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IndividualGuestBillWithoutTax.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\ContactSubReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ContactSubReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\IncumbetSubReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IncumbetSubReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\EstimatedChargesReportSubReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EstimatedChargesReportSubReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\AlpaEventContract.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AlpaEventContract.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BillingArrangement.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BillingArrangement.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\CashierCheckOutReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CashierCheckOutReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\DailyTransactionsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DailyTransactionsReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\GuestLedgerReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GuestLedgerReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\HighBalanceGuestReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HighBalanceGuestReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\TransactionRegisterReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TransactionRegisterReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\AlpaContract.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>AlpaContract.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BanquetEventContract.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BanquetEventContract.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BanquetEventContractMeals.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BanquetEventContractMeals.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BanquetEventContractRooms.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BanquetEventContractRooms.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BookingSheet.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BookingSheet.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BookingSheetFoodAndBev.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BookingSheetFoodAndBev.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BookingSheetMain.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BookingSheetMain.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BookingSheetMaintenance.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BookingSheetMaintenance.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BookingSheetRooms.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BookingSheetRooms.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\BookingSheetWeddingDetails.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BookingSheetWeddingDetails.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\CompanyTermsAndConditions.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CompanyTermsAndConditions.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\ContractAmendments.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ContractAmendments.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\ContractDetails.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ContractDetails.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\EstimateOfChargesReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EstimateOfChargesReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\Memorandum.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Memorandum.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\EventOrder.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EventOrder.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\EVentOrderSubContactPersons.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EVentOrderSubContactPersons.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\EventOrderSubPayments.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EventOrderSubPayments.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\EventOrderSubReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EventOrderSubReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\FolioEventRequirements.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FolioEventRequirements.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\EventTransactions.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EventTransactions.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\FolioInclusions.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FolioInclusions.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\FunctionRoomRates.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FunctionRoomRates.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\MealRequirements.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MealRequirements.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\MealRequirements2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MealRequirements2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\MemorandumSubReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MemorandumSubReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\PartyTermsAndConditions.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PartyTermsAndConditions.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\RoomingList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomingList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\RoomingListUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RoomingListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\RoomRequirements.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomRequirements.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\RoomReservationContract.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomReservationContract.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\StatisticalReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StatisticalReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\SummarizedMealRequirements.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SummarizedMealRequirements.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\SystemChanges.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SystemChanges.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Event Management\WeddingDetails.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>WeddingDetails.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\ActualGuestArrival.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ActualGuestArrival.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\ActualGuestDeparture.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ActualGuestDeparture.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\CancelledGroupReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CancelledGroupReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\CancelledReservationReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CancelledReservationReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\ContactPersonSubReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ContactPersonSubReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\ExpectedArrivalReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ExpectedArrivalReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\ExpectedDepartureReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ExpectedDepartureReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\GroupArrival.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GroupArrival.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\GroupDeparture.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GroupDeparture.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\GroupExpectedArrival.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GroupExpectedArrival.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\GroupInHouse.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GroupInHouse.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\GroupRegistrationForm_PICC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GroupRegistrationForm_PICC.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\InHouseGuestsList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>InHouseGuestsList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\OtherRequirementsSubReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OtherRequirementsSubReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\PrintGuestInformation.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PrintGuestInformation.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\RegistrationCard_Bahura.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RegistrationCard_Bahura.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\RegistrationCard_Koresco_Half.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RegistrationCard_Koresco_Half.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\RoomOccupancyReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomOccupancyReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\RoomTransferReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomTransferReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Front Desk\RoomUtilization.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomUtilization.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Housekeeping and Engineering\HousekeepingJobReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HousekeepingJobReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Housekeeping and Engineering\OutOfOrderRooms.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OutOfOrderRooms.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Housekeeping and Engineering\RoomStatusReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomStatusReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\DriverSales.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DriverSales.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\HighBalanceLetter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HighBalanceLetter.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\MarketSegmentReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MarketSegmentReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\NumberOfEventsAndRevenueReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NumberOfEventsAndRevenueReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\NumberOfEventsAndRevenueReportSub.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NumberOfEventsAndRevenueReportSub.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\OccupancyForecastReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>OccupancyForecastReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\RoomAvailability.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomAvailability.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\RoomRevenueReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomRevenueReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\SalesExecutiveReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SalesExecutiveReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\SalesProductionReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SalesProductionReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\SalesReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SalesReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Marketing And Sales\SalesSummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SalesSummary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MealRequirements.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MealRequirements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MarketSegmentReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MarketSegmentReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\NonGuestTransactions\NonGuestPaidOutReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NonGuestPaidOutReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\NonGuestTransactions\NonGuestPaymentsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NonGuestPaymentsReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\NonGuestTransactions\NonGuestChargesReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NonGuestChargesReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\NationalityReport.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NationalityReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Reservation\EndorsementForm.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EndorsementForm.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Reservation\EventAttendance_old.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EventAttendance_old.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Reservation\EventAttendance.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EventAttendance.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Reservation\EventList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EventList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Audit\GroupEstimatedCharge.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>GroupEstimatedCharge.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Reservation\NationalityReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NationalityReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Reservation\NoOfPaxReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>NoOfPaxReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Reservation\RoomOccupancy.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomOccupancy.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Reservation\RoomOccupancyGraph.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RoomOccupancyGraph.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ReportDateParamUI.resx">
+      <DependentUpon>ReportDateParamUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Cashier\VoidedTransactionsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>VoidedTransactionsReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Statistics\ActualVSBudgetReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ActualVSBudgetReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Statistics\HistoricalNoOfEventsAndRevenueReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HistoricalNoOfEventsAndRevenueReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Statistics\MarketSegmentReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MarketSegmentReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Statistics\PICC_RegularNewAndWinbackAccountsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PICC_RegularNewAndWinbackAccountsReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Report_Documents\Statistics\TopClientsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>TopClientsReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomRevenueUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RoomRevenueUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\SalesAndMarketingRevenueUI.resx">
+      <DependentUpon>SalesAndMarketingRevenueUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\StatisticAccountTypeUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StatisticAccountTypeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\StatisticalReportUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StatisticalReportUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TopClientsUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TopClientsUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TransactionRegisterUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TransactionRegisterUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\WeeklyScheduleUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>WeeklyScheduleUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Presentation\Report_Documents\MainImages.xsc">
+      <DependentUpon>MainImages.xsd</DependentUpon>
+    </None>
+    <None Include="Presentation\Report_Documents\MainImages.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MainImages.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Presentation\Report_Documents\MainImages.xss">
+      <DependentUpon>MainImages.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filesearch16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <Private>True</Private>
+    </COMReference>
+    <COMReference Include="Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <Private>True</Private>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft_excel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft_excel2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft_excel21.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exporttoexcel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exporttoexcel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Reservation\Reservation.csproj">
+      <Project>{25C5F1FA-A6FD-4578-AA6D-97C5BA671258}</Project>
+      <Name>Reservation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

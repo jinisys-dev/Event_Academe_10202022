@@ -1,0 +1,1296 @@
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Release\ConfigurationHotel.dll.licenses
+D:\SUBVERSION FILES\FOLIO PLUS\Main\ConfigurationHotel.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Main\ConfigurationHotel.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\Main\af\ConfigurationHotel.resources.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Configuration\obj\Debug\ConfigurationHotel.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\ConfigurationHotel.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\ConfigurationHotel.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\af\ConfigurationHotel.resources.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+D:\PAX\Folio Plus\Main\ConfigurationHotel.dll
+D:\PAX\Folio Plus\Main\ConfigurationHotel.pdb
+D:\PAX\Folio Plus\Main\af\ConfigurationHotel.resources.dll
+D:\PAX\Folio Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\PAX\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\PAX\Folio Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\PAX\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\PAX\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+D:\PAX\Folio Plus\Configuration\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\PAX\Folio Plus\Configuration\obj\Release\ConfigurationHotel.dll.licenses
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Release\ConfigurationHotel.dll.licenses
+D:\PAX\Source\Folio Plus\Main\ConfigurationHotel.dll
+D:\PAX\Source\Folio Plus\Main\ConfigurationHotel.pdb
+D:\PAX\Source\Folio Plus\Main\af\ConfigurationHotel.resources.dll
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\PAX\Source\Folio Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+D:\Event Plus\Main\ConfigurationHotel.dll
+D:\Event Plus\Main\ConfigurationHotel.pdb
+D:\Event Plus\Main\af\ConfigurationHotel.resources.dll
+D:\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\ConfigurationHotel.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\ConfigurationHotel.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\af\ConfigurationHotel.resources.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\ConfigurationHotel.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\ConfigurationHotel.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\af\ConfigurationHotel.resources.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+F:\Clark\Event Plus\Main\ConfigurationHotel.dll
+F:\Clark\Event Plus\Main\ConfigurationHotel.pdb
+F:\Clark\Event Plus\Main\af\ConfigurationHotel.resources.dll
+F:\Clark\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+F:\Clark\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+F:\Clark\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+F:\Clark\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+F:\Clark\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+F:\Clark\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+E:\Event Plus\Main\ConfigurationHotel.dll
+E:\Event Plus\Main\ConfigurationHotel.pdb
+E:\Event Plus\Main\af\ConfigurationHotel.resources.dll
+E:\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+E:\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+E:\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+E:\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+E:\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+E:\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+E:\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\ConfigurationHotel.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\ConfigurationHotel.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\af\ConfigurationHotel.resources.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\ConfigurationHotel.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\ConfigurationHotel.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\af\ConfigurationHotel.resources.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+D:\PICC integration\PICC\Event Plus\Main\ConfigurationHotel.dll
+D:\PICC integration\PICC\Event Plus\Main\ConfigurationHotel.pdb
+D:\PICC integration\PICC\Event Plus\Main\af\ConfigurationHotel.resources.dll
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\PICC integration\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomCombinationsUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\ConfigurationHotel.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\ConfigurationHotel.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\af\ConfigurationHotel.resources.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomCombinationsUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\ConfigurationHotel.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\ConfigurationHotel.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\af\ConfigurationHotel.resources.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomCombinationsUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\ConfigurationHotel.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\ConfigurationHotel.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\af\ConfigurationHotel.resources.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomCombinationsUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\ConfigurationHotel.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\ConfigurationHotel.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomCombinationsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\ConfigurationHotel.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\ConfigurationHotel.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomCombinationsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\ConfigurationHotel.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\ConfigurationHotel.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomCombinationsUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\ConfigurationHotel.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\ConfigurationHotel.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Amenity.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionSourceDocument.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.CurrencyCode.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Department.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Floor.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.HotelClass.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PackageHeader.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.PrivilegeHeader.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateCode.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RateType.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.Room.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.RoomType.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionCode.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.BusinessLayer.TransactionType.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.AppliedRatesUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.ContactsUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DropDownConfigurartionUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemCategoryUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarItemUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingStepProcedureUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MinibarSalesViewUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HousekeepingPinUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomCombinationsUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomSuperTypeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.SystemConfigurationUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TelephoneDirectoryUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionSourceDocumentUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DepartmentUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.DriverUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventHeaderUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.EventPackageUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorLayoutUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.FloorPlanUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.HotelUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealGroupUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealItemUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.MealMenuUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PackageHeaderUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.PrivilegeHeaderUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateCodeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RateTypeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RequirementHeaderUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomAmenityUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomLookUp.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomTypeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.RoomUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeSubAccountUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionCodeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.TransactionTypeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Properties.Resources.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\Jinisys.Hotel.ConfigurationHotel.Presentation.CurrencyCodeUI.af.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll.licenses
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\af\ConfigurationHotel.resources.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Configuration\obj\Debug\ConfigurationHotel.pdb

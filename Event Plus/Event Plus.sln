@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Event Plus", "Event Plus\Event Plus.vdproj", "{AEEF7AF1-C3E9-45E6-9EA3-018BB9D81FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEEF7AF1-C3E9-45E6-9EA3-018BB9D81FAA}.Debug|Default.ActiveCfg = Debug
+		{AEEF7AF1-C3E9-45E6-9EA3-018BB9D81FAA}.Debug|Default.Build.0 = Debug
+		{AEEF7AF1-C3E9-45E6-9EA3-018BB9D81FAA}.Release|Default.ActiveCfg = Release
+		{AEEF7AF1-C3E9-45E6-9EA3-018BB9D81FAA}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

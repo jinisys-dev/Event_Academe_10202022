@@ -1,0 +1,30 @@
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Event Plus.exe', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC_MSIL\System.Drawing\2.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\BusinessSharedClasses.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC_MSIL\System.Security\2.0.0.0__b03f5f7f11d50a3a\System.Security.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\ApplicationManager.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Security.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC\MySql.Data\1.0.7.30072__c5687fc88969c44d\MySql.Data.dll', No symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\C1.Win.C1FlexGrid.Classic.dll', No symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\C1.Win.C1FlexGrid.dll', No symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\C1.Common.dll', No symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Reservation.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\UIFramework.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Accounts.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Cashier.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Utilities.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Services.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\NightAudit.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\ConfigurationHotel.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Users\jinisys\Documents\Received Files\Event Plus\Main\AccountingInterface.dll', Symbols loaded.
+'Event Plus.exe' (Managed): Loaded 'C:\Windows\assembly\GAC_MSIL\System.Management\2.0.0.0__b03f5f7f11d50a3a\System.Management.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The thread 0x1564 has exited with code 0 (0x0).
+A first chance exception of type 'System.ArgumentException' occurred in mscorlib.dll
+A first chance exception of type 'System.NullReferenceException' occurred in C1.Win.C1FlexGrid.dll
+The program '[3784] Event Plus.exe: Managed' has exited with code 0 (0x0).

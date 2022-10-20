@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DropDatabase.Form1.resources
+obj\Debug\DropDatabase.Properties.Resources.resources
+obj\Debug\DropDatabase.csproj.GenerateResource.Cache
+bin\Debug\DropDatabase.exe
+bin\Debug\DropDatabase.pdb
+obj\Debug\DropDatabase.exe
+obj\Debug\DropDatabase.pdb

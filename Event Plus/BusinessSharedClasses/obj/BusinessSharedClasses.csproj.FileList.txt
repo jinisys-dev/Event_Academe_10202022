@@ -1,0 +1,7 @@
+..\Main\BusinessSharedClasses.dll
+..\Main\BusinessSharedClasses.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+obj\Debug\BusinessSharedClasses.dll
+obj\Debug\BusinessSharedClasses.pdb
+obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources

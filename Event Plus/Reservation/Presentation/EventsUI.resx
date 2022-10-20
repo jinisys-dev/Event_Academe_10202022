@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="gridEventOfficer.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>314, 15</value>
+  </metadata>
+  <data name="c1FlexGrid1.ColumnInfo" xml:space="preserve">
+    <value>6,0,0,0,0,85,Columns:0{Width:117;Caption:"ID";AllowMerging:True;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	1{Width:150;Caption:"Old Entry";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:150;Caption:"New Entry";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Visible:False;AllowMerging:True;}	4{Width:87;Caption:"Requested by";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	5{Caption:"Requested On";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="c1FlexGrid1.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{BackColor:Gainsboro;}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <metadata name="mnuEventOfficers.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="mnulvwCommands.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>158, 15</value>
+  </metadata>
+  <data name="grdFolio.ColumnInfo" xml:space="preserve">
+    <value>12,0,0,0,0,85,Columns:0{Width:96;Caption:"Folio";DataType:System.String;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	1{Width:135;Caption:"Guest Name";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:80;Caption:"From";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:LeftCenter;}	3{Width:76;Caption:"To";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:LeftCenter;}	4{Width:90;Caption:"Rooms Rented";DataType:System.String;TextAlign:LeftCenter;}	5{Width:66;Caption:"Amount";Visible:False;DataType:System.Decimal;Format:"#,##0.00";TextAlign:RightCenter;TextAlignFixed:RightCenter;}	6{Width:68;Caption:"Balance";DataType:System.Decimal;Format:"#,##0.00";TextAlign:RightCenter;TextAlignFixed:RightCenter;}	7{Caption:"Status";DataType:System.String;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	8{Width:75;Caption:"Arrival Time";DataType:System.String;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	9{Width:34;Caption:"Room";Visible:False;DataType:System.String;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	10{Width:30;Caption:"BlockID";Visible:False;DataType:System.String;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	11{Width:41;Caption:"Pax";DataType:System.Int32;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="grdFolio.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridBillingInfo.ColumnInfo" xml:space="preserve">
+    <value>4,0,0,0,0,85,Columns:0{Width:115;Caption:"Sub-Folio";AllowEditing:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	1{Width:1;Caption:"Basis (P/A)";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	2{Width:107;Caption:"% Charge";DataType:System.Decimal;TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	3{Width:90;Caption:"Amount";DataType:System.Decimal;TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="gridBillingInfo.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{Font:Arial, 8.25pt, style=Bold;BackColor:Info;ForeColor:Black;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridTransactionCodes.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label76.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAFMUlEQVRIS7WUe1BUdRTH95JkBuguEILI
+        Q3eBhYV9CrqIr+hhQc0qOqmpqeX4TnM0GkXLwFE0IRyfiVAOlIkoiSgoCoMNjumoKT5HwGdapmAqyMtv
+        59zrlWXlX8/Md+/d3+93zud3fuf8rgLAS1Wng6wV6zNta7b8lL1tV2HtntJyFJUdwb7y35FTUISsvII6
+        0m6SrTNfe70wsDBltS1l7abagpJDqL52Ay0trWh7+pSm2u1eXT0qjp9kEOsUyUjDL8RidfgzLXFpdv6+
+        A2hofEJ/gRaK29QGNJNke0owGfjw0WMxs607djNoEg11iMd6/jJ2xhfpxeVH6BUovQ2MrwQmHQUWnQbW
+        XgK2XwVO3gfqm8UllFkLmpqb0dbWhkOVx7Dp5zxs/mXnCxDx5/3xnw1dvDKNXoFfrwF+u4HIYsBWAcz8
+        A1h2FthwWZor/gs4W/csu6Zm1D34D48aGlB0uAIZWTnIyM4dyjFliT9DR36cffrcBVTeBXrtkqTZA6w8
+        B5y4B1TVA3tvAZlXgG21wM7rQNkd6egeNzTi1p2/cffefWzO3YHUjVvrVqzfouwAGDF5Bu0JmHeiHcDv
+        jvaEAuZRFuspmy0EyycQj928fQdXaq+h6uJlLPluLb5OW/cNLW8HTJ6byP7QFrYDWPvpOG42SGcvW2Mr
+        kH4RSKkClpP4yFpbW8EncOb8JeTs2gPqxLoFyavELETAuBnzRGf74CwGhu2V9C3VQbajdJSzjgNzKMvZ
+        9PyXmq72xk1UHDuBg0cqMXPRMsxOSuagEiDh01mioyNAli/px2pxiWhc5BHUAKOo6RJIGZRRM3VV4cEy
+        lNBlTFy+GlPmL6JWeQb4cMJU0bGz4G8fAq4/FqefG3dUFHWZtQSIJsXSGrZS2v2Owv1YlrYOY6bP47pK
+        gD79Bp/iBRzMEbDmAs9Ixt3ExeeMuJUDCoBAEj957vjps/iBOmnVhkx88Mk0dpEA3dX67DPnL4rBHAEJ
+        dBSy9addO87L4ha/XHMVqzduRVLq94gdPZFdngNs079MEo/C0ZELPYVudGdwezGghr5dSasy8PmSFFjj
+        RrUDWAGWQbX1dCuX/tnRkW+vbAyyn7OXnMGcpBSMn70Ahjfj2UUC6NxcOYtJY6fPxQP61tjXwh5gf9Md
+        xX75RSWYSHdq8IhxCLLGlr3h6SkBwtxcFNFaV4Eg5bn5v4kFky8dPzkwG8McA7PkW5+cvgHxE6fB3xwD
+        X4N1oUqpFETAAC8/4b1IQ1ed0dyXJuu54AzprKscxRvg2t3+5y6GJExAcPRbcA82Peym9DB6uKtcREB8
+        dJzwjnWgS0zMgD5BBstogjzYe+CwmDYXV87GUbwB3gjbYuqciGFxoFPAa56+qQqFItLZ2dlLBETFDBP6
+        641djXqjr8VkGBRqME1VafTVicmp4MIziI+HYbL4OyVbSsZGqAfEisFdevptFwQhgQAmkgQIDwpRBBp0
+        giY8xFmvUXsZtFqzPjxspHeIfn+AOaaRQXxsjpZHt/bdMZOhCjahh1rf1DMwKMfV1XW0k5NgoeA+9N5N
+        BAyx9ld4e7krvF4XhICQCMEcFeps7Bes1OmCNX2CtDZvTVimhyaiioI0hg8ZDj/TQHG3LHdNRE1PdWhW
+        r95+Hyl7dLc4OTn1puBupC6eHh5SF321YL7CU9Wdxti8Fa46J4UqwCaYtcOFWGtoF6uxn5tZr/OJspiC
+        Ii1GfYROa9IbdMZAf/9wTWBfdXBoiLfav7ebj1L5qkrZ4xXfXj4CR/Jwd1f8D7//Die9L4+HAAAAAElF
+        TkSuQmCC
+</value>
+  </data>
+  <data name="grdFolioPrivileges.ColumnInfo" xml:space="preserve">
+    <value>5,0,0,0,0,85,Columns:0{Width:45;Caption:"Code";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	1{Width:139;Caption:"Memo";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:65;Caption:"Basis";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;ImageAlign:CenterCenter;ComboList:"P|A";}	3{Width:75;Caption:"% OFF";DataType:System.Decimal;Format:"#,##0.00";TextAlign:RightCenter;}	4{Width:75;Caption:"Amount OFF";DataType:System.Decimal;Format:"#,##0.00";TextAlign:RightCenter;}	</value>
+  </data>
+  <data name="grdFolioPrivileges.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="grdFolioPackage.ColumnInfo" xml:space="preserve">
+    <value>5,0,0,0,0,85,Columns:0{Width:39;Caption:"Code";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	1{Width:119;Caption:"Memo";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:38;Caption:"Basis";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Width:49;Caption:"% OFF";DataType:System.Decimal;Format:"##0.00";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	4{Width:69;Caption:"Amount OFF";DataType:System.Decimal;Format:"#,##0.00";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="grdFolioPackage.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="grdHotelPromos.ColumnInfo" xml:space="preserve">
+    <value>4,0,0,0,0,85,Columns:0{Width:0;Caption:"PackageId";}	1{Width:155;Caption:"Description";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:73;Caption:"Date From";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Width:73;Caption:"Date To";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="grdHotelPromos.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid3.ColumnInfo" xml:space="preserve">
+    <value>5,0,0,0,0,85,Columns:0{Caption:"Room ID";Visible:False;}	1{Caption:"Room";}	2{Caption:"Time";TextAlign:CenterCenter;}	3{Caption:"Start Date";TextAlign:CenterCenter;}	4{Caption:"End Date";TextAlign:CenterCenter;}	</value>
+  </data>
+  <data name="c1FlexGrid3.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid4.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid5.ColumnInfo" xml:space="preserve">
+    <value>13,0,0,0,0,85,Columns:0{Width:25;DataType:System.Boolean;TextAlign:LeftCenter;ImageAlign:CenterCenter;}	1{Caption:"Room ID";Visible:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	2{Width:150;Caption:"Room";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	3{Width:43;Caption:"Code";Visible:False;AllowEditing:False;DataType:System.String;TextAlign:LeftCenter;}	4{Width:250;Caption:"Particular";DataType:System.String;TextAlign:LeftCenter;}	5{Caption:"Rate Type";}	6{Width:74;Caption:"Amount";DataType:System.Double;Format:"###,##0.#0";TextAlign:RightCenter;TextAlignFixed:RightCenter;}	7{Width:50;Caption:"Qty/Hrs";TextAlignFixed:CenterCenter;}	8{Width:40;Caption:"Tax(%)";}	9{Width:65;Caption:"Discount(%)";TextAlignFixed:CenterCenter;}	10{Caption:"Total Amount";DataType:System.Double;Format:"###,##0.#0";TextAlign:RightCenter;TextAlignFixed:RightCenter;}	11{Width:71;Caption:"FROM";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	12{Width:71;Caption:"TO";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="c1FlexGrid5.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridContacts.ColumnInfo" xml:space="preserve">
+    <value>12,0,0,0,0,85,Columns:0{Caption:"Last Name";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	1{Caption:"First Name";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	2{Caption:"Middle Name";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	3{Caption:"Designation";TextAlign:CenterCenter;TextAlignFixed:LeftCenter;}	4{Caption:"Person Type";TextAlign:CenterCenter;TextAlignFixed:LeftCenter;}	5{Caption:"Address";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	6{Caption:"Tel. No.";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	7{Caption:"Mobile No.";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	8{Caption:"Fax No.";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	9{Caption:"Email";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	10{Caption:"Birthdate";TextAlignFixed:LeftCenter;}	11{Caption:"contactID";Visible:False;}	</value>
+  </data>
+  <data name="gridContacts.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	decisionmaker{BackColor:255, 192, 192;}	</value>
+  </data>
+  <data name="gridBilling.ColumnInfo" xml:space="preserve">
+    <value>4,0,0,0,0,85,Columns:0{Width:153;Caption:"Rate Header";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	1{Width:64;Caption:"Value";DataType:System.Double;Format:"###,##0.#0";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	2{Visible:False;}	3{Visible:False;}	</value>
+  </data>
+  <data name="gridBilling.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridEventDetails.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid6.ColumnInfo" xml:space="preserve">
+    <value>4,0,0,0,0,85,Columns:0{Width:47;Caption:"Menu ID";Visible:False;AllowEditing:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	1{Width:45;Caption:"Item ID";Visible:False;AllowEditing:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	2{Width:175;Caption:"Food Description";AllowEditing:False;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Width:79;Caption:"Remarks";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="c1FlexGrid6.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridFunctionRooms.ColumnInfo" xml:space="preserve">
+    <value>16,0,0,0,0,85,Columns:0{Width:54;Caption:"Room";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	1{Width:1;Caption:"Room Type";AllowEditing:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	2{Caption:"Venue Name";AllowEditing:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	3{Width:80;Caption:"From Date";DataType:System.DateTime;Format:"dd-MMM-yy";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	4{Width:80;Caption:"To Date";DataType:System.DateTime;Format:"dd-MMM-yy";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	5{Width:80;Caption:"Start Time";DataType:System.DateTime;Format:"hh:mm tt";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	6{Width:80;Caption:"End Time";DataType:System.DateTime;Format:"hh:mm tt";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	7{Width:120;Caption:"Rate Type";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	8{Width:80;Caption:"Amount";DataType:System.Double;Format:"###,##0.#0";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	9{Width:187;Caption:"Setup";TextAlignFixed:CenterCenter;}	10{Width:180;Caption:"Activity";TextAlignFixed:CenterCenter;}	11{Width:100;Caption:"Guaranteed Pax";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	12{Width:266;Caption:"Remarks";}	13{Caption:"id";Visible:False;}	14{Caption:"Room Type Code";Visible:False;}	15{Caption:"Status";Visible:False;DataType:System.String;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="gridFunctionRooms.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{BackColor:Gainsboro;}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridRooms.ColumnInfo" xml:space="preserve">
+    <value>4,0,0,0,0,85,Columns:0{Width:175;Caption:"Room Type";AllowEditing:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	1{Width:90;Caption:"No. of Rooms";DataType:System.Int32;TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	2{Width:85;Caption:"No. of Pax";DataType:System.Int32;TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	3{Width:90;Caption:"Blocked Rooms";AllowEditing:False;DataType:System.Int32;EditMask:"0";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="gridRooms.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridBlockedRooms.ColumnInfo" xml:space="preserve">
+    <value>2,0,0,0,0,85,Columns:0{Width:133;Caption:"Room Type";AllowEditing:False;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	1{Width:76;Caption:"Room No.";DataType:System.String;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="gridBlockedRooms.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid7.ColumnInfo" xml:space="preserve">
+    <value>6,0,0,0,0,85,Columns:0{Width:130;Caption:"Remarks";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	1{Width:130;Caption:"Old Entry";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:130;Caption:"New Entry";AllowMerging:True;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Caption:"Amended by";}	4{Caption:"Amended on";}	5{Width:0;Caption:"User";}	</value>
+  </data>
+  <data name="c1FlexGrid7.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;BackColor:WhiteSmoke;WordWrap:False;}	Alternate{BackColor:Gainsboro;}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid8.ColumnInfo" xml:space="preserve">
+    <value>5,0,0,0,0,85,Columns:0{Caption:"Venue";TextAlignFixed:LeftCenter;}	1{Caption:"From Date";TextAlignFixed:LeftCenter;}	2{Caption:"To Date";TextAlignFixed:LeftCenter;}	3{Caption:"From Time";TextAlignFixed:LeftCenter;}	4{Caption:"To Time";TextAlignFixed:LeftCenter;}	</value>
+  </data>
+  <data name="c1FlexGrid8.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid9.ColumnInfo" xml:space="preserve">
+    <value>6,0,0,0,0,85,Columns:0{Width:130;Caption:"Remarks";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	1{Width:130;Caption:"Old Entry";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:130;Caption:"New Entry";AllowMerging:True;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Caption:"Amended by";}	4{Caption:"Amended on";}	5{Width:0;Caption:"User";}	</value>
+  </data>
+  <data name="c1FlexGrid9.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;BackColor:WhiteSmoke;WordWrap:False;}	Alternate{BackColor:Gainsboro;}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid10.ColumnInfo" xml:space="preserve">
+    <value>5,0,0,0,0,85,Columns:0{Caption:"Venue";TextAlignFixed:LeftCenter;}	1{Caption:"From Date";TextAlignFixed:LeftCenter;}	2{Caption:"To Date";TextAlignFixed:LeftCenter;}	3{Caption:"From Time";TextAlignFixed:LeftCenter;}	4{Caption:"To Time";TextAlignFixed:LeftCenter;}	</value>
+  </data>
+  <data name="c1FlexGrid10.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid11.ColumnInfo" xml:space="preserve">
+    <value>6,0,0,0,0,85,Columns:0{Width:117;Caption:"ID";AllowMerging:True;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	1{Width:150;Caption:"Old Entry";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:150;Caption:"New Entry";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Width:47;Visible:False;AllowMerging:True;}	4{Caption:"Requested by";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	5{Caption:"Requested On";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="c1FlexGrid11.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{BackColor:Gainsboro;}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="c1FlexGrid12.ColumnInfo" xml:space="preserve">
+    <value>4,0,0,0,0,85,Columns:0{Width:120;Caption:"Room";TextAlign:LeftCenter;}	1{Width:70;Caption:"Date";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	2{Caption:"startdate";Visible:False;}	3{Caption:"enddate";Visible:False;}	</value>
+  </data>
+  <data name="c1FlexGrid12.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridEMDActions.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <metadata name="btnPrintEventAttendance.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="nudActualAttendees.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label148.Locked" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="gridReqSchedules.ColumnInfo" xml:space="preserve">
+    <value>4,0,0,0,0,85,Columns:0{Width:120;Caption:"Room";TextAlign:LeftCenter;}	1{Width:70;Caption:"Date";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	2{Caption:"startdate";Visible:False;}	3{Caption:"enddate";Visible:False;}	</value>
+  </data>
+  <data name="gridReqSchedules.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridNewMeal.ColumnInfo" xml:space="preserve">
+    <value>13,0,0,0,0,85,Columns:0{Width:151;Name:"typeOfMeal";Caption:"Type of Meal";}	1{Width:85;Name:"noOfPax";Caption:"No. Of Pax";}	2{Width:153;Name:"foodNet";Caption:"Food Net Per Head Cost";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Width:118;Name:"totalCost";Caption:"Total Cost";DataType:System.Decimal;Format:"###,###,###,###.00";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	4{Width:136;Name:"date";Caption:"Date";}	5{Name:"venue";Caption:"Venue";}	6{Name:"remarks";Caption:"Remarks";}	7{Width:150;Name:"setup";Caption:"Setup";}	8{Width:149;Name:"over";Caption:"Over";Visible:False;}	9{Name:"MenuID";Caption:"MenuID";Visible:False;}	10{Name:"MealTypeID";Caption:"MealTypeID";Visible:False;}	11{Name:"NewMeal";Caption:"NewMeal";Visible:False;}	12{Name:"MealID";Caption:"MealID";Visible:False;}	</value>
+  </data>
+  <data name="gridNewMeal.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridMealItems.ColumnInfo" xml:space="preserve">
+    <value>4,0,0,0,0,85,Columns:0{Width:47;Caption:"Menu ID";Visible:False;AllowEditing:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	1{Width:45;Caption:"Item ID";Visible:False;AllowEditing:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	2{Width:175;Caption:"Food Description";AllowEditing:False;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Width:79;Caption:"Remarks";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="gridMealItems.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="grdSystemChanges.ColumnInfo" xml:space="preserve">
+    <value>6,0,0,0,0,85,Columns:0{Width:130;Caption:"Remarks";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	1{Width:130;Caption:"Old Entry";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:130;Caption:"New Entry";AllowMerging:True;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Caption:"Amended by";}	4{Caption:"Amended on";}	5{Width:0;Caption:"User";}	</value>
+  </data>
+  <data name="grdSystemChanges.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;BackColor:WhiteSmoke;WordWrap:False;}	Alternate{BackColor:Gainsboro;}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridAmendmentSchedules.ColumnInfo" xml:space="preserve">
+    <value>5,0,0,0,0,85,Columns:0{Caption:"Venue";TextAlignFixed:LeftCenter;}	1{Caption:"From Date";DataType:System.DateTime;Format:"MMM d yyyy";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	2{Caption:"To Date";DataType:System.DateTime;Format:"MMM d yyyy";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	3{Caption:"From Time";TextAlignFixed:LeftCenter;}	4{Caption:"To Time";TextAlignFixed:LeftCenter;}	</value>
+  </data>
+  <data name="gridAmendmentSchedules.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="grdAmmendments.ColumnInfo" xml:space="preserve">
+    <value>6,0,0,0,0,85,Columns:0{Width:117;Caption:"ID";AllowMerging:True;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	1{Width:150;Caption:"Old Entry";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	2{Width:150;Caption:"New Entry";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	3{Visible:False;AllowMerging:True;}	4{Width:87;Caption:"Requested by";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	5{Caption:"Requested On";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="grdAmmendments.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{BackColor:Gainsboro;}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridPackageRoom.ColumnInfo" xml:space="preserve">
+    <value>5,0,0,0,0,85,Columns:0{Caption:"Room ID";Visible:False;}	1{Caption:"Room";}	2{Caption:"Time";TextAlign:CenterCenter;}	3{Caption:"Start Date";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:LeftCenter;}	4{Caption:"End Date";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:LeftCenter;}	</value>
+  </data>
+  <data name="gridPackageRoom.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="grdRecurringCharges.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="grdRecurredCharge.ColumnInfo" xml:space="preserve">
+    <value>13,0,0,0,0,85,Columns:0{Width:25;DataType:System.Boolean;TextAlign:LeftCenter;ImageAlign:CenterCenter;}	1{Caption:"Room ID";Visible:False;TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	2{Width:150;Caption:"Room";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	3{Width:43;Caption:"Code";Visible:False;AllowEditing:False;DataType:System.String;TextAlign:LeftCenter;}	4{Width:250;Caption:"Particular";DataType:System.String;TextAlign:LeftCenter;}	5{Caption:"Rate Type";}	6{Width:74;Caption:"Amount";DataType:System.Double;Format:"###,##0.#0";TextAlign:RightCenter;TextAlignFixed:RightCenter;}	7{Width:50;Caption:"Qty/Hrs";TextAlignFixed:CenterCenter;}	8{Width:40;Caption:"Tax(%)";}	9{Width:65;Caption:"Discount(%)";TextAlignFixed:CenterCenter;}	10{Caption:"Total Amount";DataType:System.Double;Format:"###,##0.#0";TextAlign:RightCenter;TextAlignFixed:RightCenter;}	11{Width:71;Caption:"FROM";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	12{Width:71;Caption:"TO";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="grdRecurredCharge.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridContactList.ColumnInfo" xml:space="preserve">
+    <value>13,0,0,0,0,85,Columns:0{Width:30;DataType:System.Boolean;TextAlign:LeftCenter;ImageAlign:CenterCenter;}	1{Caption:"id";Visible:False;}	2{Caption:"Last Name";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	3{Caption:"First Name";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	4{Caption:"Middle Name";Visible:False;TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	5{Caption:"Designation";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	6{Caption:"PersonType";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	7{Caption:"Address";Visible:False;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	8{Caption:"Tel No.";Visible:False;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	9{Caption:"Mobile No.";Visible:False;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	10{Caption:"Fax No.";Visible:False;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	11{Caption:"Email";Visible:False;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	12{Caption:"Birthdate";Visible:False;}	</value>
+  </data>
+  <data name="gridContactList.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="gridContactPersons.ColumnInfo" xml:space="preserve">
+    <value>12,0,0,0,0,85,Columns:0{Caption:"Last Name";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	1{Caption:"First Name";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	2{Caption:"Middle Name";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	3{Caption:"Designation";TextAlign:CenterCenter;TextAlignFixed:LeftCenter;}	4{Caption:"Person Type";TextAlign:CenterCenter;TextAlignFixed:LeftCenter;}	5{Caption:"Address";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	6{Caption:"Tel. No.";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	7{Caption:"Mobile No.";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	8{Caption:"Fax No.";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	9{Caption:"Email";TextAlign:LeftCenter;TextAlignFixed:LeftCenter;}	10{Caption:"Birthdate";TextAlignFixed:LeftCenter;}	11{Caption:"contactID";Visible:False;}	</value>
+  </data>
+  <data name="gridContactPersons.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	decisionmaker{BackColor:255, 192, 192;}	</value>
+  </data>
+  <data name="grdEventOrderViewed.ColumnInfo" xml:space="preserve">
+    <value>4,0,0,0,0,85,Columns:0{Width:167;Name:"UserID";Caption:"User";TextAlign:LeftCenter;}	1{Width:282;Name:"DateViewed";Caption:"Date";TextAlign:CenterCenter;TextAlignFixed:CenterCenter;}	2{Caption:"startdate";Visible:False;}	3{Caption:"enddate";Visible:False;}	</value>
+  </data>
+  <data name="grdEventOrderViewed.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <data name="grdDeposits.ColumnInfo" xml:space="preserve">
+    <value>3,0,0,0,0,85,Columns:0{Width:87;Caption:"Date";DataType:System.DateTime;Format:"dd-MMM-yyyy";TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	1{Width:70;Caption:"Amount";DataType:System.Double;Format:"###,##0.#0";TextAlign:RightCenter;TextAlignFixed:CenterCenter;}	2{Width:75;Caption:"OR #";DataType:System.String;TextAlign:LeftCenter;TextAlignFixed:CenterCenter;}	</value>
+  </data>
+  <data name="grdDeposits.StyleInfo" xml:space="preserve">
+    <value>Normal{Font:Arial, 8.25pt;}	Alternate{}	Fixed{BackColor:Control;ForeColor:ControlText;Border:Flat,1,ControlDark,Both;}	Highlight{BackColor:Highlight;ForeColor:HighlightText;}	Focus{}	Editor{}	Search{BackColor:Highlight;ForeColor:HighlightText;}	Frozen{BackColor:Beige;}	NewRow{}	EmptyArea{BackColor:AppWorkspace;Border:Flat,1,ControlDarkDark,Both;}	GrandTotal{BackColor:Black;ForeColor:White;}	Subtotal0{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal1{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal2{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal3{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal4{BackColor:ControlDarkDark;ForeColor:White;}	Subtotal5{BackColor:ControlDarkDark;ForeColor:White;}	</value>
+  </data>
+  <metadata name="mnuContactPerson.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>429, 19</value>
+  </metadata>
+</root>

@@ -1,0 +1,24 @@
+E:\Academe 2\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.exe
+E:\Academe 2\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.pdb
+E:\Academe 2\DropDatabase(Academe)\DropDatabase\bin\Debug\DropDatabase.exe
+E:\Academe 2\DropDatabase(Academe)\DropDatabase\bin\Debug\DropDatabase.pdb
+E:\Academe 2\DropDatabase(Academe)\DropDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Academe 2\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.Form1.resources
+E:\Academe 2\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.Properties.Resources.resources
+E:\Academe 2\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.csproj.GenerateResource.Cache
+E:\Academe 3\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.exe
+E:\Academe 3\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.pdb
+E:\Academe 3\DropDatabase(Academe)\DropDatabase\bin\Debug\DropDatabase.exe
+E:\Academe 3\DropDatabase(Academe)\DropDatabase\bin\Debug\DropDatabase.pdb
+E:\Academe 3\DropDatabase(Academe)\DropDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Academe 3\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.Form1.resources
+E:\Academe 3\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.Properties.Resources.resources
+E:\Academe 3\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.exe
+D:\Jinisys Software, Inc\Folio Academe\Academe\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\DropDatabase(Academe)\DropDatabase\bin\Debug\DropDatabase.exe
+D:\Jinisys Software, Inc\Folio Academe\Academe\DropDatabase(Academe)\DropDatabase\bin\Debug\DropDatabase.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\DropDatabase(Academe)\DropDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.Form1.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\DropDatabase(Academe)\DropDatabase\obj\Debug\DropDatabase.csproj.GenerateResource.Cache

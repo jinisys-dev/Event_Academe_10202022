@@ -1,0 +1,567 @@
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Reservation.dll.config
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Reservation.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\Reservation.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Reservation.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Reservation.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Reservation.dll.config
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Reservation.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\Reservation.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Reservation.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContractUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContractUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Reservation.pdb
+D:\PICC integration\PICC\Event Plus\Main\Reservation.dll.config
+D:\PICC integration\PICC\Event Plus\Main\Reservation.dll
+D:\PICC integration\PICC\Event Plus\Main\Reservation.pdb
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+D:\PICC integration\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+C:\Users\jinisys\Desktop\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.StatisticsAccountsTypeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Reservation.dll.config
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Reservation.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\Reservation.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContractUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.StatisticsAccountsTypeUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Reservation\obj\Debug\Reservation.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Reservation.dll.config
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Reservation.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Reservation.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContractUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.StatisticsAccountsTypeUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Reservation.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContractUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.StatisticsAccountsTypeUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Reservation.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Reservation.dll.config
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Reservation.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\Reservation.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Reservation.dll.config
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Reservation.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\Reservation.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContractUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.StatisticsAccountsTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Reservation.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Reservation\obj\Debug\Reservation.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Reservation.dll.config
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Reservation.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\Reservation.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContractUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.StatisticsAccountsTypeUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Reservation.dll.config
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Reservation.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\Reservation.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContractUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.StatisticsAccountsTypeUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Reservation.dll.config
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Reservation.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\Reservation.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Calendar.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Folio.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioPackage.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioRouting.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransaction.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.FolioTransactions.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.PackageDetails.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Packages.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Privilege.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RecurringCharge.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Reservations.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomBlock.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.RoomEvents.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.Schedule.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.BusinessLayer.SubFolio.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContactPersonsUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ContractUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EnterAmountUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddReasonUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.AddScheduleUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioHistoryUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseFolioUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.BrowseTransactionCodesUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementListUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EndorsementUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventListUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.EventsUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.FloorOccupancyUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupAccountLookUP.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupBlokingUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationListUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.GroupReservationUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.HousekeepingPinUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.IndividualGuestLookUP.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MarketingUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MemoUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.MinibarSalesViewUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RateType_Inquiry.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReasonForCancelUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationFolioUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationListUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.ReservationUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomAvailabilityTodayUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendarUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomCalendar_New.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomHistoryUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.RoomMergeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Presentation.StatisticsAccountsTypeUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Jinisys.Hotel.Reservation.Properties.Resources.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.dll.licenses
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Reservation\obj\Debug\Reservation.pdb

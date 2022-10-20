@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Jinisys.Hotel.AccountingInterface.BusinessLayer.BackOfficeConfig" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BusinessLayer\BackOfficeConfig.cs</FileName>
+      <HashCode>AAAAAAoAAAcAAQAAECAC0AAAgAAAEAABACAABAAAgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.BusinessLayer.BackOfficeConfigFacade" Collapsed="true">
+    <Position X="3" Y="6" Width="2" />
+    <TypeIdentifier>
+      <FileName>BusinessLayer\BackOfficeConfigFacade.cs</FileName>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAIAAAAAAIAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.BusinessLayer.CityLedgerFacade" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BusinessLayer\CityLedgerFacade.cs</FileName>
+      <HashCode>AAAAAAAAQAEBEAAAAAAAAAAAEAAAAAAAIAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.BusinessLayer.CityLeger" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BusinessLayer\CityLeger.cs</FileName>
+      <HashCode>AAASEgAACTQgwgABAhAAAAAAEAAACAABAQUAAAiAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.DataAccessLayer.BackOfficeConfigDAO" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>DataAccessLayer\BackOfficeConfigDAO.cs</FileName>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAIAgAAAAIgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.DataAccessLayer.CityLedgerDAO" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataAccessLayer\CityLedgerDAO.cs</FileName>
+      <HashCode>AAAAAAAAAAEBEAAAAAAAAAAAEAAAAAAAIAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Navision_Interface.Data_Access.Navision_Interface_DAO" Collapsed="true">
+    <Position X="6.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>DataAccessLayer\Navision_Interface\Navision_Interface_DAO.cs</FileName>
+      <HashCode>AAAAgAAAAAAAAAAAAAAACAAAIBAAAAAAAAgAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinsiys.Hotel.AccountingInterface.ExactGlobe.BusinessLayer.eCostCenter" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ExactGlobe_Interface\CostCenter.cs</FileName>
+      <HashCode>AAAAAABAgAIAAAAAAAAAAAAAAAAgCEQEAAAACEIAIAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinsiys.Hotel.AccountingInterface.ExactGlobe.BusinessLayer.eGLaccounts" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ExactGlobe_Interface\GLAccounts.cs</FileName>
+      <HashCode>AAAEAABEgAIAAAAAAAAAAAAAAgAgCEQEAAIACEIAIAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinsiys.Hotel.AccountingInterface.ExactGlobe.BusinessLayer.eJournalEntryCode" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>ExactGlobe_Interface\JournalEntryCode.cs</FileName>
+      <HashCode>AAAAAABAgAIAAAAAAAAAAAAAAAAgCEQEAAAQAEIAIAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinsiys.Hotel.AccountingInterface.ExactGlobe.BusinessLayer.eTransactionCodeMapping" Collapsed="true">
+    <Position X="6.25" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>ExactGlobe_Interface\TransactionCodeMapping.cs</FileName>
+      <HashCode>IAAAAABAAAIAAAEAAQAIAQAAAAAgCkSAAAAQCEIQAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.ExactGlobe.DataAccess.CostCenterDAO" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ExactGlobe_Interface\CostCenterDAO.cs</FileName>
+      <HashCode>AAAgAAAAAAAAAAAAAAADAAACIAQAAAAAEAAAACAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.ExactGlobe.DataAccess.GLaccountsDAO" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ExactGlobe_Interface\GLAccountsDAO.cs</FileName>
+      <HashCode>AAAABAAAAAAAAIAAAAADAAAAAAQEAAAABAAAACAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.ExactGlobe.DataAccess.JournalEntryCodeDAO" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>ExactGlobe_Interface\JournalEntryCodeDAO.cs</FileName>
+      <HashCode>QAAAAAAAAAACAAAAAAADAAAAAAQAAAAACAAAICAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.ExactGlobe.DataAccess.TransactionCodeMappingDAO" Collapsed="true">
+    <Position X="3" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>ExactGlobe_Interface\TransactionCodeMappingDAO.cs</FileName>
+      <HashCode>ACAAAIIAAEAAAAAABAADAAEAAAQAABAAAAAAACAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Navision_Interface.BusinessLayer.Gen_Journal_Line" Collapsed="true">
+    <Position X="6.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Navision_Interface\Gen_Journal_Line.cs</FileName>
+      <HashCode>+67XvvU/jrX3fr67lekyuH/13fnw92avUjf+/taT8ac=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Navision_Interface.BusinessLayer.Navision_Interface_Facade" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>Navision_Interface\Navision_Interface_Facade.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Navision_Interface.BusinessLayer.Sales_Header" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Navision_Interface\Sales_Header.cs</FileName>
+      <HashCode>3x+uqT73N/fX/3D/fddBu1fe7f3ctxu3QjT/fTTng8Y=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Navision_Interface.BusinessLayer.Sales_Line" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Navision_Interface\Sales_Line.cs</FileName>
+      <HashCode>f/7svj3/t+N4W8LPLbss+9n/d+1+py9//1wn/3IM8Xs=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Oracle.Oracle_Interface_Facade" Collapsed="true">
+    <Position X="3" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <FileName>Oracle\Oracle_Interface_Facade.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.AccountingSetup" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\AccountingSetup.cs</FileName>
+      <HashCode>QAIQAIEBISAIChIgAAiAABELCJIETIBAAaAAICAABEI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerDetailsUI" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Presentation\CityLedgerDetailsUI.cs</FileName>
+      <HashCode>AAAgAgoAASEABBIAAMCDAQAiCAAAwRAgAIAAIQgCoQI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerPaymentUI" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Presentation\CityLedgerPaymentUI.cs</FileName>
+      <HashCode>EAAAEAAgACEAAJAAAACAACECAwABQBAABKkAIIIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.CityLedgerUI" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\CityLedgerUI.cs</FileName>
+      <HashCode>gIAQIAGwACAAIBAAAEDAAAACCEC5RxggAIEAAQgCwAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.CostCenterUI_ExactGlobe" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>Presentation\CostCenterUI_ExactGlobe.cs</FileName>
+      <HashCode>IAAoAIQgACACAQFIhBCAKUgDAIAYwBgAQqIgAIIAAQQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.GLchartOfAccounts_ExactGlobe" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\GLchartOfAccounts_ExactGlobe.cs</FileName>
+      <HashCode>IBAIAIQAACgCAQXIBBCAIGgCAIAYwDgAQqIgBIIAAQQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.IntegrationSetupUI_ExactGlobe" Collapsed="true">
+    <Position X="0.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\IntegrationSetupUI_ExactGlobe.cs</FileName>
+      <HashCode>ACgAAAAAACEAABgAAACAAAgCAAAAAAAAAQABAAAAFAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.JournalEntryCodesUI_ExactGlobe" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\JournalEntryCodesUI_ExactGlobe.cs</FileName>
+      <HashCode>MBAIAIYAACACgSFIBBCAAEgCAIAYwRgAQqIgIIIAAQQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.NewCityLederEntryUI" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Presentation\NewCityLederEntryUI.cs</FileName>
+      <HashCode>AAAAAAAgAKAAABEAAACAAEICAAAAEBAAABAgQAIIABA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.NewEntry_TransactionCodeMapping_ExactGlobeUI" Collapsed="true">
+    <Position X="0.5" Y="8" Width="3.5" />
+    <TypeIdentifier>
+      <FileName>Presentation\NewEntry_TransactionCodeMapping_ExactGlobeUI.cs</FileName>
+      <HashCode>AAAAAAAAACAEIFGAAACAAEACAEAAADAEACAABAKABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.PostToAccountingUI" Collapsed="true">
+    <Position X="6.25" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Presentation\PostToAccountingUI.cs</FileName>
+      <HashCode>gAAAEAAAICQIGpIgAAGAAAASBAEAAEgAABAAAAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Presentation.TransactionCodeMappingUI_ExactGlobe" Collapsed="true">
+    <Position X="3" Y="5" Width="3" />
+    <TypeIdentifier>
+      <FileName>Presentation\TransactionCodeMappingUI_ExactGlobe.cs</FileName>
+      <HashCode>AAACAAIAACAEABEAAAGIBAACAAAAQBACACCBAQJAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Jinisys.Hotel.AccountingInterface.Properties.Resources" Collapsed="true">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

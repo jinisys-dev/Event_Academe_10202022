@@ -1,0 +1,56 @@
+RecordKey	CardCode	CardName	CardType	ContactPerson	Phone1	Phone2	Fax	Cellular	DebitorAccount	PayTermsGrpCode	GroupCode	SubjectToWithholdingTax	VatGroup	VatLiable	WTCode	FederalTaxID
+RecordKey	CardCode	CardName	CardType	ContactPerson	Phone1	Phone2	Fax	Cellular	DebitorAccount	PayTermsGrpCode	GroupCode	SubjectToWithholdingTax	VatGroup	VatLiable	WTCode	FederalTaxID
+1	3B&E	3B % E Construction	cCustomer	Manuel de la Torre	2355275					1				vExempted		118-519-263-000
+2	ABOI	Aboitiz Const. Group Inc.	cCustomer		3464748					4				vExempted		000-068-074-000
+3	ARAD	AR Adlawan Construction	cCustomer	Maricar Adlawan	2724887					6				vExempted		102-717-179-000
+4	BNRC	BNR Construction	cCustomer	Roger Sia	3464830	3448066				6				vExempted		000-313-468-000
+5	CPRO	Cebu Provincial Government	cCustomer	Susan Fernan	2556123	2541139				7				vLiable		001-985-298-000
+6	CLAP	City Govt. of Lapu-lapu	cCustomer	Maribeth Soronio	3400015	3403004				7				vLiable		002-328-174-000
+7	CMAN	City Govt. of Mandaue	cCustomer	Mrs. Gingging	3440608	2389687				7				vLiable		000-653-561-000
+8	DAKA	Dakay Const.& Dev.Corp.	cCustomer	Mrs. Lumen	2545685	2539792				6				vLiable		000-312-387-000
+9	CFED	"DPWH,Cebu 1st Eng'g.Dist."	cCustomer	Mrs. Nora	2360749	2561955				9				vLiable		000-553-164-004
+10	CSED	"DPWH,Cebu 2nd Eng'g.Dist."	cCustomer	Mrs. Elena	2728924	4915426				9				vLiable		000-553-164-015
+11	CFOD	"DPWH,Cebu 4th Eng'g.Dist."	cCustomer	Mrs. Yolie	4848413		4848410			9				vLiable		237-303-091-000
+12	CCED	"DPWH,Cebu City Eng'g.Dist."	cCustomer	Engr. Leonor/Lenie	2555326	2561955				9				vLiable		000-553-164-005
+13	CFIF	"DPWH,Cebu Fifth Eng'g. Dist."	cCustomer	Soy Cabatingan	2552394	2555416				9				vLiable		222-585-329-000
+14	DPWH	"DPWH,Region VII"	cCustomer	Engr.Bacolor	2348058	2348034				7				vLiable		000-553-164-001
+15	EDAN	Edanna Construction	cCustomer	Engr. Tata Cabading	2723643					6				vExempted		122-879-341-000
+16	EGIC	EG & I  Construction	cCustomer	Mr. Steve	2618227	2618229	2618229			6				vExempted		005-255-645-000
+17	EVCO	Evercon Builders	cCustomer							1				vLiable		000-331-372-000
+18	GATE	Gateway Motors	cCustomer	Francis	3443815	3443814	3460034			6				vExempted		220-268-104-000
+19	GEET	Geety Realty & Dev. Corp.	cCustomer	Andrea Tan	4167123	2720920				7				vLiable		222-603-648-000
+20	GLEY	Gleymark Construction	cCustomer	Ronnie Laborada	2736028		2736028			1				vExempted		102-588-665-000
+21	GTMC	GTM Construction	cCustomer	Rowena Macrohon	4207115	3469860	3469860			7				vExempted		100-071-679-000
+22	JJ&J	JJ & J Construction	cCustomer	Maridel Ruiz	3441753		3441753			6				vExempted		207-923-557-000
+23	JOHN	Johndorf Ventures Corporation	cCustomer		2313317					1				vExempted		000-555-949-003
+24	KAJI	Kajima Corporation	cCustomer	Mr. Maeda	3453791	3453792	3453794			6				vLiable		050-001-382-548
+25	LIVA	Livan Trade Corporation	cCustomer							1				vExempted		
+26	MCIA	Mactan Cebu Int'l.Airport Authority	cCustomer	Engr. Ginete	3402486					6				vLiable		000-652-481-000
+27	MDCO	Makati Development Corp.	cCustomer	Mr. Jaime	2311752		2311744			7				vLiable		053-000-410-817
+28	MALU	Maria Luisa Home Owners Ass.	cCustomer	Ms. Jingle/Ronnie	3461530	3469613				6				vExempted		000-557-214-000
+29	MCWD	Metropolitan Cebu Water Dist.	cCustomer	Mr.Bucariza	2548434	4121709				9				vLiable		000-558-031-000
+30	MROD	MRO Development Corporation	cCustomer	Ms.Grace	3469188	3460477	3469188			6				vLiable		000-558-395-000
+31	MBOG	Municipality of Bogo	cCustomer	Mr. Tulingin	251012	4348651				9				vLiable		000-653-821-000
+32	MCON	Municipality of Consolacion	cCustomer	Ms.Dahlia dela Fuente	3441246					7				vLiable		000-653-798-000
+33	NICO	Nicon Eng'g.Works & Services	cCustomer	Mr.Allan Prosia	2321679	2316814				4				vLiable		219-227-125-000
+34	PVIL	Paradise Village Home Owners Ass.	cCustomer	Rene Villarica										vExempted		
+35	PBOB	PB Obial Construction	cCustomer	Ms.Aurora Obial						6				vExempted		167-889-737-000
+36	PEZA	Phil.Economic Zone Authority-MEZ	cCustomer	Ms.Tata Nazareno	3400591	3400860				6				vLiable		001-075-676-004
+37	PIWR	"Pilipinas Water Res., Inc."	cCustomer	Mr.Anthony	3469541		3455366			6				vExempted		252-191-360-000
+38	PLDC	PLD Construction	cCustomer	Peter Dy	4229365	3451452	4229365			2				vExempted		100-070-599-000
+39	PROH	Prohomes Development Corp.	cCustomer	Matet/Shirly	2313317	2310636				1				vLiable		235-410-503-000
+40	QMBU	QM Builders	cCustomer	Mr.Allan Quirante/Raquel	4719103		4719103			8				vExempted		135-526-837-000
+41	QUEN	Queensland Group of Hotels	cCustomer	Shiella	3442717					2				vExempted		228-139-769-002
+42	ROBL	Roble Shipping Inc.	cCustomer	Aileen	2553871	2542583				6				vExempted		000-951-387-000
+43	SMVA	St.Michael Village Home Owners Ass.	cCustomer	Ms.Vicky Yu	2354357					7				vExempted		200-332-888-000
+44	STAR	"Star Phil. Shipping Lines, Inc."	cCustomer	Epen	4165902	4166117	4166117			1				vExempted		
+45	SNVA	Sto.Niño Village Home Owners Ass.	cCustomer	Mr.Art Tisolo / Arlene	2389088									vExempted		001-687-743-000
+46	TUAN	Tuanson Construction	cCustomer	Bia	2693468	4918243				1				vExempted		908-376-188-000
+47	USCA	University of San Carlos	cCustomer	Arch.Ellis Puerto /Ruby	2531000					4				vLiable		000-666-548-000
+48	VAMC	Vam Construction	cCustomer		2553071					1				vExempted		110-501-605-000
+49	VCON	Virlo Construction	cCustomer	Mr.Pongase/Apo	4202779	3438456	3438456			6				vExempted		100-072-172-000
+50	VELC	Velonta Construction & Supply	cCustomer	Marivic Velonta	4224002		2316146			4				vExempted		210-900-361-000
+51	VENR	Venray Construction	cCustomer	Rey Manigsaca/anamor	2623649	4169062	2610934			6				vExempted		133-397-569-000
+52	VINE	Vineyard Construction	cCustomer	Ramoncito Uy	2342622	2342635				4				vExempted		108-433-586-000
+53	WORL	Worldwide Builders	cCustomer	Marites						4				vExempted		924-302-516-000
+54	ZION	Zion Construction	cCustomer	Mr. Arden / Momoy	2735619	2729625	2735619			6				vExempted		133-397-126-000

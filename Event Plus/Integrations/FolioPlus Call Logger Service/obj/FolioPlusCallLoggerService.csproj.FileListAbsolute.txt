@@ -1,0 +1,35 @@
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\BusinessSharedClasses.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe.config
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Accounts.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\ConfigurationHotel.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Reservation.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Utilities.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\C1.Win.C1FlexGrid.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\ListViewEx.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\WebCam_Capture.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\C1.Win.C1FlexGrid.Classic.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Cashier.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\C1.Common.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\UIFramework.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Security.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\NightAudit.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Services.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Reports.dll
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Utilities.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\C1.Win.C1FlexGrid.xml
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Cashier.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\UIFramework.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Security.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\NightAudit.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Services.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Reservation.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\Reports.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\obj\Debug\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\obj\Debug\Jinisys.FolioPlusCallLogger.BusinessLayer.CallCharge.resources
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\obj\Debug\Folio_Plus_Call_Logger_Service.CallLoggerService.resources
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\obj\Debug\Folio_Plus_Call_Logger_Service.ProjectInstaller.resources
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\obj\Debug\FolioPlusCallLoggerService.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\obj\Debug\FolioPlusCallLoggerService.exe
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\obj\Debug\FolioPlusCallLoggerService.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.pdb

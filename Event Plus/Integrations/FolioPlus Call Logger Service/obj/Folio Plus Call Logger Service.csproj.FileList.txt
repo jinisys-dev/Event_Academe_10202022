@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Jinisys.FolioPlusCallLogger.BusinessLayer.CallCharge.resources
+obj\Debug\Folio_Plus_Call_Logger_Service.CallLoggerService.resources
+obj\Debug\Folio Plus Call Logger Service.csproj.GenerateResource.Cache
+bin\Debug\Folio Plus Call Logger Service.exe
+bin\Debug\Folio Plus Call Logger Service.pdb
+bin\Debug\Accounts.dll
+bin\Debug\BusinessSharedClasses.dll
+bin\Debug\ConfigurationHotel.dll
+bin\Debug\Reports.dll
+bin\Debug\Reservation.dll
+obj\Debug\Folio Plus Call Logger Service.exe
+obj\Debug\Folio Plus Call Logger Service.pdb
+bin\Debug\Folio Plus Call Logger Service.exe.config
+obj\Debug\Folio_Plus_Call_Logger_Service.ProjectInstaller.resources

@@ -1,0 +1,809 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{25C5F1FA-A6FD-4578-AA6D-97C5BA671258}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Reservation</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Jinisys.Hotel.Reservation</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>Jinisys.Hotel.Reservation.%28None%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility">
+      <Name>Accessibility</Name>
+    </Reference>
+    <Reference Include="Accounts, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="BusinessSharedClasses, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\C1.Win.C1FlexGrid.Classic.dll</HintPath>
+    </Reference>
+    <Reference Include="Cashier, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Riyadh\Desktop\Main\Cashier.dll</HintPath>
+    </Reference>
+    <Reference Include="ConfigurationHotel, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Riyadh\Desktop\Main\ConfigurationHotel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Integrations, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="ListViewEx">
+      <Name>ListViewEx</Name>
+      <HintPath>..\Referenced DLLs\ListViewEx.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.JScript" />
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Name>mscorlib</Name>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="NightAudit, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Riyadh\Desktop\Main\NightAudit.dll</HintPath>
+    </Reference>
+    <Reference Include="Reports, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Riyadh\Desktop\Main\Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="SAP SDK, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86" />
+    <Reference Include="Security, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Services, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>C:\Users\Riyadh\Desktop\Main\Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="UIFramework, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Utilities, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\Calendar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\ChildFolios.cs">
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\clsGuestListDefaults.cs" />
+    <Compile Include="Business Logic\Entity Classes\ContractAmendments.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventOrder.cs" />
+    <Compile Include="Business Logic\Entity Classes\Endorsement.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventAppliedRates.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventAttendance.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventContact.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventEndorsement.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventFoodRequirements.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventOfficer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\EventRequirements.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventBookingInfo.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\EventDetails.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventRoomRequirements.cs" />
+    <Compile Include="Business Logic\Entity Classes\EventRoomVenue.cs" />
+    <Compile Include="Business Logic\Entity Classes\Folio.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\FolioInclusions.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\FolioPackage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\FolioPackageCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\FolioRouting.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\FolioRoutingCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\FolioTransaction.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\FolioTransactionLedger.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\FolioTransactions.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\GroupBookingDropDown.cs" />
+    <Compile Include="Business Logic\Entity Classes\MinibarSale.cs" />
+    <Compile Include="Business Logic\Entity Classes\MinibarSalesDetail.cs" />
+    <Compile Include="Business Logic\Entity Classes\PackageDetails.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\Packages.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\Privilege.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\PrivilegeCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\RecurringCharge.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\RecurringChargeCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\Reservations.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\RoomBlock.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\RoomEvents.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\Schedule.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\SubFolio.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\SubFolios.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\ContractAmendmentFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\EventOrderFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\EndorsementFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\EventAppliedRatesFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\CalendarFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\EventFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\EventFoodRequirementsFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\EventRequirementsFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\EventRoomRequirementFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\EventRoomVenueFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\FolioFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\FolioTransactionFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\GroupBookingDropDownFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\MinibarSaleFacade.cs" />
+    <Compile Include="Business Logic\Facade Classes\ReservationsFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\RoomBlockCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\RoomBlockFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\RoomEventCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\RoomEventFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\ScheduleCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\ScheduleFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\ContractAmendmentDAO.cs" />
+    <Compile Include="Data Access Layer\EventOrderDAO.cs" />
+    <Compile Include="Data Access Layer\EndorsementDAO.cs" />
+    <Compile Include="Data Access Layer\EventAppliedRatesDAO.cs" />
+    <Compile Include="Data Access Layer\CalendarDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\EventAttendanceDAO.cs" />
+    <Compile Include="Data Access Layer\EventContactDAO.cs" />
+    <Compile Include="Data Access Layer\EventEndorsementDAO.cs" />
+    <Compile Include="Data Access Layer\EventFoodRequirementsDAO.cs" />
+    <Compile Include="Data Access Layer\EventOfficerDAO.cs" />
+    <Compile Include="Data Access Layer\EventRoomRequirementsDAO.cs" />
+    <Compile Include="Data Access Layer\EventRoomVenueDAO.cs" />
+    <Compile Include="Data Access Layer\EventsDAO.cs" />
+    <Compile Include="Data Access Layer\EventsRequirementsDAO.cs" />
+    <Compile Include="Data Access Layer\FolioDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\FolioTransactionDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\GroupBookingDropDown.cs" />
+    <Compile Include="Data Access Layer\MinibarSaleDAO.cs" />
+    <Compile Include="Data Access Layer\ReservationsDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\RoomBlockDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\RoomEventDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access Layer\ScheduleDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Presentation\ContactPersonsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ContactPersonsUI.Designer.cs">
+      <DependentUpon>ContactPersonsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ContractUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ContractUI.Designer.cs">
+      <DependentUpon>ContractUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\EnterAmountUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\EnterAmountUI.Designer.cs">
+      <DependentUpon>EnterAmountUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\AddReasonUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AddScheduleUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AddScheduleUI.Designer.cs">
+      <DependentUpon>AddScheduleUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\BrowseFolioHistoryUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\BrowseFolioUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\BrowseFolioUI.Designer.cs">
+      <DependentUpon>BrowseFolioUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\BrowseTransactionCodesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\BrowseTransactionCodesUI.Designer.cs">
+      <DependentUpon>BrowseTransactionCodesUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\EndorsementListUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\EndorsementListUI.Designer.cs">
+      <DependentUpon>EndorsementListUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\EndorsementUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\EndorsementUI.Designer.cs">
+      <DependentUpon>EndorsementUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\EventListUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\EventListUI.Designer.cs">
+      <DependentUpon>EventListUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\EventsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\EventsUI.Designer.cs">
+      <DependentUpon>EventsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\FloorOccupancyLayoutUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MarketingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MarketingUI.Designer.cs">
+      <DependentUpon>MarketingUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\GroupAccountLookUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GroupBlockingUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GroupReservationListUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GroupReservationUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\HousekeepingPinUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\HousekeepingPinUI.designer.cs">
+      <DependentUpon>HousekeepingPinUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\IndividualGuestLookUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MemoUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MemoUI.Designer.cs">
+      <DependentUpon>MemoUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\MinibarSalesViewUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MinibarSalesViewUI.designer.cs">
+      <DependentUpon>MinibarSalesViewUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\RateType_Inquiry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RateType_Inquiry.Designer.cs">
+      <DependentUpon>RateType_Inquiry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ReasonForCancelUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ReasonForCancelUI.Designer.cs">
+      <DependentUpon>ReasonForCancelUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ReservationFolioUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ReservationListUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ReservationUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ReservationUI.Designer.cs">
+      <DependentUpon>ReservationUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\RoomAvailabilityTodayUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomAvailabilityTodayUI.Designer.cs">
+      <DependentUpon>RoomAvailabilityTodayUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\RoomCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomCalendar_New.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomCalendar_New.Designer.cs">
+      <DependentUpon>RoomCalendar_New.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\RoomHistoryUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomHistoryUI.Designer.cs">
+      <DependentUpon>RoomHistoryUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\RoomMergeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomMergeUI.Designer.cs">
+      <DependentUpon>RoomMergeUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\StatisticsAccountsTypeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\StatisticsAccountsTypeUI.Designer.cs">
+      <DependentUpon>StatisticsAccountsTypeUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Business Logic\Entity Classes\Calendar.resx">
+      <DependentUpon>Calendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\Folio.resx">
+      <DependentUpon>Folio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\FolioPackage.resx">
+      <DependentUpon>FolioPackage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\FolioRouting.resx">
+      <DependentUpon>FolioRouting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\FolioTransaction.resx">
+      <DependentUpon>FolioTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\FolioTransactions.resx">
+      <DependentUpon>FolioTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\PackageDetails.resx">
+      <DependentUpon>PackageDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\Packages.resx">
+      <DependentUpon>Packages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\Privilege.resx">
+      <DependentUpon>Privilege.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\RecurringCharge.resx">
+      <DependentUpon>RecurringCharge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\Reservations.resx">
+      <DependentUpon>Reservations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\RoomBlock.resx">
+      <DependentUpon>RoomBlock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\RoomEvents.resx">
+      <DependentUpon>RoomEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\Schedule.resx">
+      <DependentUpon>Schedule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\SubFolio.resx">
+      <DependentUpon>SubFolio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ContactPersonsUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ContactPersonsUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ContractUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ContractUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EnterAmountUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EnterAmountUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="Presentation\AddReasonUI.resx">
+      <DependentUpon>AddReasonUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\AddScheduleUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddScheduleUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\BrowseFolioHistoryUI.resx">
+      <DependentUpon>BrowseFolioHistoryUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\BrowseFolioUI.resx">
+      <DependentUpon>BrowseFolioUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\BrowseTransactionCodesUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BrowseTransactionCodesUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EndorsementListUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EndorsementListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EndorsementUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EndorsementUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EventListUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EventListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EventsUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EventsUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\FloorOccupancyLayoutUI.resx">
+      <DependentUpon>FloorOccupancyLayoutUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GroupAccountLookUP.resx">
+      <DependentUpon>GroupAccountLookUP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GroupBlockingUI.resx">
+      <DependentUpon>GroupBlockingUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GroupReservationListUI.resx">
+      <DependentUpon>GroupReservationListUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GroupReservationUI.resx">
+      <DependentUpon>GroupReservationUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\HousekeepingPinUI.resx">
+      <DependentUpon>HousekeepingPinUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\IndividualGuestLookUp.resx">
+      <DependentUpon>IndividualGuestLookUp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MarketingUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MarketingUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MemoUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MemoUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MinibarSalesViewUI.resx">
+      <DependentUpon>MinibarSalesViewUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RateType_Inquiry.resx">
+      <DependentUpon>RateType_Inquiry.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ReasonForCancelUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReasonForCancelUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ReservationFolioUI.resx">
+      <DependentUpon>ReservationFolioUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ReservationListUI.resx">
+      <DependentUpon>ReservationListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ReservationUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ReservationUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomAvailabilityTodayUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RoomAvailabilityTodayUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomCalendar.resx">
+      <DependentUpon>RoomCalendar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomCalendar_New.resx">
+      <DependentUpon>RoomCalendar_New.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomHistoryUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RoomHistoryUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomMergeUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RoomMergeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\StatisticsAccountsTypeUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StatisticsAccountsTypeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_small.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_home_bell.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bell.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_in1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progress2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progress1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Progress.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clipboard Information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\combined.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Properties_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Properties_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveas16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pastfile16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\close16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Endorsement.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Endorsement1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charges.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\charges1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\memo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paymentSlip.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

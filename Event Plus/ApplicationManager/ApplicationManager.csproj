@@ -1,0 +1,398 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C2C9279C-431A-4D2D-A35F-918E81692BE0}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>ApplicationManager</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Jinisys.Hotel.ApplicationManager</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>Jinisys.Hotel.ApplicationManager.%28None%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AccountingInterface, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="BusinessSharedClasses, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C1.C1PrintDocument, Version=1.0.20061.309, Culture=neutral, PublicKeyToken=1a6f4158ebe6d3b8">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Component One\C1.C1PrintDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Common, Version=1.0.20031.116, Culture=neutral, PublicKeyToken=e272bb32d11b1948">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Component One\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Component One\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Component One\C1.Win.C1FlexGrid.Classic.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="mscorlib">
+      <Name>mscorlib</Name>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Security, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="stdole">
+      <Name>stdole</Name>
+      <HintPath>..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\stdole.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="UIFramework, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Utilities, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="WebCam_Capture">
+      <Name>WebCam_Capture</Name>
+      <HintPath>..\Utilities\bin\WebCam_Capture.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FolioPlusRegistry.cs" />
+    <Compile Include="Presentation\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MDIMainUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="Presentation\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MDIMainUI.resx">
+      <DependentUpon>MDIMainUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Preview.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paste.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\koresco.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\koresco_bg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history_32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer_32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USER_32.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contact-newL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3_ico_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Accounts.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Compass.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Encrypted.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Favorites.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Applications.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fonts.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Key.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Encrypted1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button - Shared.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BAG_DOLS.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CHART8.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Author.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System Monitor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MorePeople.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\libraryCabinet.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\System Desktop.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\My Favorites Folder.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SETI%40Home.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\people %28group%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GROUP_32.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\applications-graphics16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xxxx.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CALENDR1.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Printer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PRICE.ICO" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_music.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calendar_32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anotacoes.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uploads_folder.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_arrivals.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_departures.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_inhouse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_cancelled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_expected_arrivals.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_expected_departure.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_guestledger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_roomoccupancy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_roomstatus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports_roomOutofOrder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoomin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom_out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jinisys.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Integrations\Integrations.csproj">
+      <Project>{52CF68CF-5790-4202-A139-8A425A20A576}</Project>
+      <Name>Integrations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Night Audit\NightAudit.csproj">
+      <Project>{539EC076-B893-4184-9EA6-33F7105936FF}</Project>
+      <Name>NightAudit</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reports\Reports.csproj">
+      <Project>{3151A2D7-510E-4645-A03F-E5394862FD80}</Project>
+      <Name>Reports</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reservation\Reservation.csproj">
+      <Project>{25C5F1FA-A6FD-4578-AA6D-97C5BA671258}</Project>
+      <Name>Reservation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

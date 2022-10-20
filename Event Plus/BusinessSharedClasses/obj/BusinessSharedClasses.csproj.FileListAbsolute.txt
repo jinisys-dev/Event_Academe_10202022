@@ -1,0 +1,168 @@
+D:\SUBVERSION FILES\FOLIO PLUS\Main\BusinessSharedClasses.dll
+D:\SUBVERSION FILES\FOLIO PLUS\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\SUBVERSION FILES\FOLIO PLUS\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\SUBVERSION FILES\FOLIO PLUS\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\BusinessSharedClasses\obj\Release\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\BusinessSharedClasses\obj\Release\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\SUBVERSION FILES\FOLIO PLUS\BusinessSharedClasses\obj\Release\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\BusinessSharedClasses\obj\Release\BusinessSharedClasses.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Main\BusinessSharedClasses.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\BusinessSharedClasses.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\BusinessSharedClasses.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\PAX\Folio Plus\Main\BusinessSharedClasses.dll
+D:\PAX\Folio Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\PAX\Folio Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\PAX\Folio Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\PAX\Folio Plus\BusinessSharedClasses\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\BusinessSharedClasses\obj\Release\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\PAX\Folio Plus\BusinessSharedClasses\obj\Release\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\BusinessSharedClasses\obj\Release\BusinessSharedClasses.dll
+D:\PAX\Folio Plus\Main\BusinessSharedClasses.pdb
+D:\PAX\Source\Folio Plus\Main\BusinessSharedClasses.dll
+D:\PAX\Source\Folio Plus\BusinessSharedClasses\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\BusinessSharedClasses\obj\Release\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\PAX\Source\Folio Plus\BusinessSharedClasses\obj\Release\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\BusinessSharedClasses\obj\Release\BusinessSharedClasses.dll
+D:\PAX\Source\Folio Plus\Main\BusinessSharedClasses.pdb
+D:\PAX\Source\Folio Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\PAX\Source\Folio Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\PAX\Source\Folio Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+F:\PsYMoN\projects\Event Plus\Main\BusinessSharedClasses.dll
+F:\PsYMoN\projects\Event Plus\Main\BusinessSharedClasses.pdb
+F:\PsYMoN\projects\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\PsYMoN\projects\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+F:\PsYMoN\projects\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+F:\PsYMoN\projects\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+F:\PsYMoN\projects\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\BusinessSharedClasses.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\BusinessSharedClasses.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\BusinessSharedClasses.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\BusinessSharedClasses.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+F:\Clark\Event Plus\Main\BusinessSharedClasses.dll
+F:\Clark\Event Plus\Main\BusinessSharedClasses.pdb
+F:\Clark\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+F:\Clark\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+F:\Clark\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+F:\Clark\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+F:\Clark\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+E:\Event Plus\Main\BusinessSharedClasses.dll
+E:\Event Plus\Main\BusinessSharedClasses.pdb
+E:\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+E:\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+E:\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+E:\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+E:\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\Event Plus\Main\BusinessSharedClasses.dll
+D:\Event Plus\Main\BusinessSharedClasses.pdb
+D:\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\BusinessSharedClasses.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\BusinessSharedClasses.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\BusinessSharedClasses.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\BusinessSharedClasses.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\PICC integration\PICC\Event Plus\Main\BusinessSharedClasses.dll
+D:\PICC integration\PICC\Event Plus\Main\BusinessSharedClasses.pdb
+D:\PICC integration\PICC\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\PICC integration\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\PICC integration\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\BusinessSharedClasses.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\BusinessSharedClasses.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\BusinessSharedClasses\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.ResolveComReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.ResolveComReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\BusinessSharedClasses\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\BusinessSharedClasses.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\BusinessSharedClasses.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.ResolveComReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\BusinessSharedClasses.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\BusinessSharedClasses.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.ResolveComReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\BusinessSharedClasses.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\BusinessSharedClasses.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\BusinessSharedClasses\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.ResolveComReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\BusinessSharedClasses.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\BusinessSharedClasses.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.ResolveComReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\BusinessSharedClasses.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\BusinessSharedClasses.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.ResolveComReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\BusinessSharedClasses.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\BusinessSharedClasses.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.ResolveComReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\Jinisys.Hotel.BusinessSharedClasses.ProgressForm.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\BusinessSharedClasses\obj\Debug\BusinessSharedClasses.pdb

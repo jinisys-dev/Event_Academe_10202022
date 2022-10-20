@@ -1,0 +1,240 @@
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Release\ResolveAssemblyReference.cache
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Release\NightAudit.csproj.GenerateResource.Cache
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Release\NightAudit.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Main\NightAudit.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Main\NightAudit.pdb
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Debug\NightAudit.dll
+D:\SUBVERSION FILES\FOLIO PLUS\Night Audit\obj\Debug\NightAudit.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\NightAudit.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Main\NightAudit.pdb
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Night Audit\obj\Debug\NightAudit.dll
+C:\Documents and Settings\vpaca\Desktop\Folio Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\PAX\Folio Plus\Main\NightAudit.dll
+D:\PAX\Folio Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\PAX\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\PAX\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\PAX\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\PAX\Folio Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\PAX\Folio Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\PAX\Folio Plus\Night Audit\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Folio Plus\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\PAX\Folio Plus\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\PAX\Folio Plus\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\PAX\Folio Plus\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\PAX\Folio Plus\Night Audit\obj\Release\NightAudit.csproj.GenerateResource.Cache
+D:\PAX\Folio Plus\Night Audit\obj\Release\NightAudit.dll
+D:\PAX\Folio Plus\Main\NightAudit.pdb
+D:\PAX\Source\Folio Plus\Night Audit\obj\Release\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\PAX\Source\Folio Plus\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\PAX\Source\Folio Plus\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\PAX\Source\Folio Plus\Night Audit\obj\Release\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\PAX\Source\Folio Plus\Night Audit\obj\Release\NightAudit.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\PAX\Source\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\PAX\Source\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\PAX\Source\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\PAX\Source\Folio Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\PAX\Source\Folio Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\PAX\Source\Folio Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\PAX\Source\Folio Plus\Main\NightAudit.dll
+D:\PAX\Source\Folio Plus\Main\NightAudit.pdb
+D:\PAX\Source\Folio Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\Event Plus\Main\NightAudit.dll
+D:\Event Plus\Main\NightAudit.pdb
+D:\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+F:\PsYMoN\projects\Event Plus\Main\NightAudit.dll
+F:\PsYMoN\projects\Event Plus\Main\NightAudit.pdb
+F:\PsYMoN\projects\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+F:\PsYMoN\projects\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+F:\PsYMoN\projects\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+F:\PsYMoN\projects\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+F:\PsYMoN\projects\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+F:\PsYMoN\projects\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+F:\PsYMoN\projects\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+F:\PsYMoN\projects\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\NightAudit.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Main\NightAudit.pdb
+C:\Documents and Settings\Clark\Desktop\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+C:\Documents and Settings\Clark\Desktop\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+C:\Documents and Settings\Clark\Desktop\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+C:\Documents and Settings\Clark\Desktop\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\NightAudit.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Main\NightAudit.pdb
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+C:\Documents and Settings\Administrator\Desktop\Event Plus UnSVN\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\FILES\Jinisys Softwares\Event Plus\Main\NightAudit.dll
+D:\FILES\Jinisys Softwares\Event Plus\Main\NightAudit.pdb
+D:\FILES\Jinisys Softwares\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\FILES\Jinisys Softwares\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\FILES\Jinisys Softwares\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\FILES\Jinisys Softwares\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\FILES\Jinisys Softwares\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\FILES\Jinisys Softwares\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+F:\Clark\Event Plus\Main\NightAudit.dll
+F:\Clark\Event Plus\Main\NightAudit.pdb
+F:\Clark\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+F:\Clark\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+F:\Clark\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+F:\Clark\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+F:\Clark\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+F:\Clark\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+F:\Clark\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+F:\Clark\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+C:\Users\Gene\Desktop\Event Plus\Main\NightAudit.dll
+C:\Users\Gene\Desktop\Event Plus\Main\NightAudit.pdb
+C:\Users\Gene\Desktop\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gene\Desktop\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+C:\Users\Gene\Desktop\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+C:\Users\Gene\Desktop\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+C:\Users\Gene\Desktop\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+C:\Users\Gene\Desktop\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+C:\Users\Gene\Desktop\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+C:\Users\Gene\Desktop\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+E:\Event Plus\Main\NightAudit.dll
+E:\Event Plus\Main\NightAudit.pdb
+E:\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+E:\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+E:\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+E:\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+E:\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+E:\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+E:\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+E:\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\NightAudit.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Main\NightAudit.pdb
+C:\Users\jinisys\Documents\Received Files\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+C:\Users\jinisys\Documents\Received Files\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+C:\Users\jinisys\Documents\Received Files\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+C:\Users\jinisys\Documents\Received Files\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\NightAudit.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Main\NightAudit.pdb
+C:\Users\jinisys\Desktop\PICC\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+C:\Users\jinisys\Desktop\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+C:\Users\jinisys\Desktop\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\PICC integration\PICC\Event Plus\Main\NightAudit.dll
+D:\PICC integration\PICC\Event Plus\Main\NightAudit.pdb
+D:\PICC integration\PICC\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\PICC integration\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\PICC integration\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\PICC integration\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\PICC integration\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\PICC integration\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\PICC integration\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\PICC integration\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\NightAudit.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Main\NightAudit.pdb
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+C:\Users\jessie\Desktop\Event Plus\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\NightAudit.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\NightAudit.pdb
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+C:\Users\jinisys\Desktop\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\NightAudit.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Main\NightAudit.pdb
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\Desktop Back Up(2014-09-01)\PICC\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\NightAudit.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Main\NightAudit.pdb
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\Jinisys Software, Inc\Folio Academe\Academe\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\NightAudit.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Main\NightAudit.pdb
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\Jinisys Software, Inc\Folio Academe\Event Academe\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\NightAudit.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Main\NightAudit.pdb
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\Jinisys Software, Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\NightAudit.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\NightAudit.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Main\NightAudit.pdb
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\ResolveAssemblyReference.cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndClosingUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.DayEndConfigurationUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Presentation.PostRoomChargesUI.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\Jinisys.Hotel.NightAudit.Properties.Resources.resources
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\NightAudit.csproj.GenerateResource.Cache
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\NightAudit.dll
+D:\Jinisys Software Inc\Academe\Event Academe\Event Plus\Night Audit\obj\Debug\NightAudit.pdb

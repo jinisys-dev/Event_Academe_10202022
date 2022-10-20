@@ -1,0 +1,666 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{75A218E5-2C45-4CD1-8BC4-0BC385C8B187}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>ConfigurationHotel</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Jinisys.Hotel.ConfigurationHotel</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>Jinisys.Hotel.Configuration.%28None%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BusinessSharedClasses, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C1.Common">
+      <Name>C1.Common</Name>
+      <HintPath>..\..\..\pos-plus\component one\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da" />
+    <Reference Include="C1.Win.C1FlexGrid.Classic, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da" />
+    <Reference Include="ListViewEx">
+      <Name>ListViewEx</Name>
+      <HintPath>..\Referenced DLLs\ListViewEx.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Name>mscorlib</Name>
+    </Reference>
+    <Reference Include="MSDATASRC">
+      <Name>MSDATASRC</Name>
+      <HintPath>..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\MSDATASRC.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="stdole">
+      <Name>stdole</Name>
+      <HintPath>..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\stdole.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="UIFramework, Version=0.0.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Main\UIFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\Amenity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\AmenityCollection.cs" />
+    <Compile Include="Business Layer\Entity Classes\AppliedRates.cs" />
+    <Compile Include="Business Layer\Entity Classes\Contact.cs" />
+    <Compile Include="Business Layer\Entity Classes\MinibarItemCategory.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\MinibarItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\MinibarSale.cs" />
+    <Compile Include="Business Layer\Entity Classes\MinibarSalesDetail.cs" />
+    <Compile Include="Business Layer\Entity Classes\HousekeepingStepProcedure.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\RoomSuperType.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\SystemConfiguration.cs" />
+    <Compile Include="Business Layer\Entity Classes\TransactionSourceDocument.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\CurrencyCode.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\Department.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\Driver.cs" />
+    <Compile Include="Business Layer\Entity Classes\EventPackageDetail.cs" />
+    <Compile Include="Business Layer\Entity Classes\EventPackageHeader.cs" />
+    <Compile Include="Business Layer\Entity Classes\EventType.cs" />
+    <Compile Include="Business Layer\Entity Classes\Floor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\HotelClass.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\MealMenu.cs" />
+    <Compile Include="Business Layer\Entity Classes\PackageDetail.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\PackageDetailCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\PackageHeader.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\PrivilegeDetail.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\PrivilegeDetailsCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\PrivilegeHeader.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\RateCode.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\RateType.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\RequirementCode.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\Room.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\RoomType.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\TransactionCode.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Entity Classes\TransactionCode_SubAccount.cs" />
+    <Compile Include="Business Layer\Entity Classes\TransactionType.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Layer\Facade Classes\AmenityFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\AppliedRatesFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\ContactFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\DropDownConfiguration.cs" />
+    <Compile Include="Business Layer\Facade Classes\MinibarItemCategoryFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\MinibarItemFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\MinibarSaleFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\HousekeepingStepProcedureFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\RoomSuperTypeFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\SystemConfigurationFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\TransactionSourceDocumentFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\CurrencyCodeFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\DepartmentFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\DriverFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\EventPackageDetailFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\EventPackageFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\EventTypeFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\FloorFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\HotelFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\MealMenuItemFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\PackageFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\PrivilegeFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\RateCodeFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\RateTypeFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\RequirementCodeFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\RoomFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\RoomTypeFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\TransactionCodeFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\TransactionCode_SubAccountFacade.cs" />
+    <Compile Include="Business Layer\Facade Classes\TransactionTypeFacade.cs" />
+    <Compile Include="Data Access\AmenityDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\AppliedRatesDAO.cs" />
+    <Compile Include="Data Access\ContactsDAO.cs" />
+    <Compile Include="Data Access\DropDownConfigurationDAO.cs" />
+    <Compile Include="Data Access\MinibarCategoryDAO.cs" />
+    <Compile Include="Data Access\HousekeepingStepProcedureDAO.cs" />
+    <Compile Include="Data Access\MinibarItemDAO.cs" />
+    <Compile Include="Data Access\MinibarSaleDAO.cs" />
+    <Compile Include="Data Access\RoomSuperTypeDAO.cs" />
+    <Compile Include="Data Access\SystemConfigurationDAO.cs" />
+    <Compile Include="Data Access\TransactionSourceDocumentDAO.cs" />
+    <Compile Include="Data Access\CurrencyCodeDAO.cs" />
+    <Compile Include="Data Access\DepartmentDAO.cs" />
+    <Compile Include="Data Access\DriverDAO.cs" />
+    <Compile Include="Data Access\EventPackageDAO.cs" />
+    <Compile Include="Data Access\EventPackageDetailDAO.cs" />
+    <Compile Include="Data Access\EventTypeDAO.cs" />
+    <Compile Include="Data Access\FloorDAO.cs" />
+    <Compile Include="Data Access\HotelDAO.cs" />
+    <Compile Include="Data Access\MealMenuItemDAO.cs" />
+    <Compile Include="Data Access\PackageDAO.cs" />
+    <Compile Include="Data Access\PrivilegeDAO.cs" />
+    <Compile Include="Data Access\RateCodeDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\RateTypeDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\RequirementCodeDAO.cs" />
+    <Compile Include="Data Access\RoomDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\RoomTypeDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\TransactionCodeDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\TransactionCode_SubAccountDAO.cs" />
+    <Compile Include="Data Access\TransactionTypeDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Presentation\AppliedRatesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AppliedRatesUI.Designer.cs">
+      <DependentUpon>AppliedRatesUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\ContactsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\ContactsUI.Designer.cs">
+      <DependentUpon>ContactsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\DropDownConfigurartionUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\DropDownConfigurartionUI.Designer.cs">
+      <DependentUpon>DropDownConfigurartionUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarItemCategoryUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarItemCategoryUI.designer.cs">
+      <DependentUpon>MinibarItemCategoryUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarItemUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarItemUI.designer.cs">
+      <DependentUpon>MinibarItemUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HousekeepingStepProceduresUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarSalesViewUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\MinibarSalesViewUI.designer.cs">
+      <DependentUpon>MinibarSalesViewUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HousekeepingPinUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\Housekeeping\HousekeepingPinUI.designer.cs">
+      <DependentUpon>HousekeepingPinUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\RoomCombinationsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomCombinationsUI.Designer.cs">
+      <DependentUpon>RoomCombinationsUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\RoomSuperTypeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomSuperTypeUI.Designer.cs">
+      <DependentUpon>RoomSuperTypeUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\SystemConfigurationUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\SystemConfigurationUI.Designer.cs">
+      <DependentUpon>SystemConfigurationUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\TelephoneDirectoryUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TelephoneDirectoryUI.Designer.cs">
+      <DependentUpon>TelephoneDirectoryUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\TransactionSourceDocumentUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TransactionSourceDocumentUI.Designer.cs">
+      <DependentUpon>TransactionSourceDocumentUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CurrencyCodeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\DepartmentUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\DriverUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\DriverUI.Designer.cs">
+      <DependentUpon>DriverUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\EventHeaderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\EventHeaderUI.Designer.cs">
+      <DependentUpon>EventHeaderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\EventPackageUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\EventPackageUI.Designer.cs">
+      <DependentUpon>EventPackageUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\FloorLayoutUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\FloorPlanUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\HotelUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MealGroupUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MealGroupUI.Designer.cs">
+      <DependentUpon>MealGroupUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\MealItemUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MealItemUI.Designer.cs">
+      <DependentUpon>MealItemUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\MealMenuUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MealMenuUI.Designer.cs">
+      <DependentUpon>MealMenuUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\PackageHeaderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\PrivilegeHeaderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RateCodeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RateTypeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RequirementHeaderUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RequirementHeaderUI.Designer.cs">
+      <DependentUpon>RequirementHeaderUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\RoomAmenityUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomLookUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomTypeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\RoomUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TransactionCodeSubAccountUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TransactionCodeSubAccountUI.Designer.cs">
+      <DependentUpon>TransactionCodeSubAccountUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\TransactionCodeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\TransactionTypeUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Business Layer\Entity Classes\Amenity.resx">
+      <DependentUpon>Amenity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\TransactionSourceDocument.resx">
+      <DependentUpon>TransactionSourceDocument.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\CurrencyCode.resx">
+      <DependentUpon>CurrencyCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\Department.resx">
+      <DependentUpon>Department.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\Floor.resx">
+      <DependentUpon>Floor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\HotelClass.resx">
+      <DependentUpon>HotelClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\PackageHeader.resx">
+      <DependentUpon>PackageHeader.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\PrivilegeHeader.resx">
+      <DependentUpon>PrivilegeHeader.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\RateCode.resx">
+      <DependentUpon>RateCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\RateType.resx">
+      <DependentUpon>RateType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\Room.resx">
+      <DependentUpon>Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\RoomType.resx">
+      <DependentUpon>RoomType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\TransactionCode.resx">
+      <DependentUpon>TransactionCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Layer\Entity Classes\TransactionType.resx">
+      <DependentUpon>TransactionType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="Presentation\AppliedRatesUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AppliedRatesUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\ContactsUI.resx">
+      <DependentUpon>ContactsUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\DropDownConfigurartionUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DropDownConfigurartionUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\MinibarItemCategoryUI.resx">
+      <DependentUpon>MinibarItemCategoryUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\MinibarItemUI.resx">
+      <DependentUpon>MinibarItemUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\HousekeepingStepProceduresUI.resx">
+      <DependentUpon>HousekeepingStepProceduresUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\MinibarSalesViewUI.resx">
+      <DependentUpon>MinibarSalesViewUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\Housekeeping\HousekeepingPinUI.resx">
+      <DependentUpon>HousekeepingPinUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomCombinationsUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RoomCombinationsUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomSuperTypeUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RoomSuperTypeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\SystemConfigurationUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SystemConfigurationUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TelephoneDirectoryUI.resx">
+      <DependentUpon>TelephoneDirectoryUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TransactionSourceDocumentUI.resx">
+      <DependentUpon>TransactionSourceDocumentUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CurrencyCodeUI.af.resx">
+      <DependentUpon>CurrencyCodeUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CurrencyCodeUI.resx">
+      <DependentUpon>CurrencyCodeUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\DepartmentUI.resx">
+      <DependentUpon>DepartmentUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\DriverUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DriverUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EventHeaderUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EventHeaderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\EventPackageUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EventPackageUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\FloorLayoutUI.resx">
+      <DependentUpon>FloorLayoutUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\FloorPlanUI.resx">
+      <DependentUpon>FloorPlanUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\HotelUI.resx">
+      <DependentUpon>HotelUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MealGroupUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MealGroupUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MealItemUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MealItemUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MealMenuUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MealMenuUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\PackageHeaderUI.resx">
+      <DependentUpon>PackageHeaderUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\PrivilegeHeaderUI.resx">
+      <DependentUpon>PrivilegeHeaderUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RateCodeUI.resx">
+      <DependentUpon>RateCodeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RateTypeUI.resx">
+      <DependentUpon>RateTypeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RequirementHeaderUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RequirementHeaderUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomAmenityUI.resx">
+      <DependentUpon>RoomAmenityUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomLookUp.resx">
+      <DependentUpon>RoomLookUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomTypeUI.resx">
+      <DependentUpon>RoomTypeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\RoomUI.resx">
+      <DependentUpon>RoomUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TransactionCodeSubAccountUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TransactionCodeSubAccountUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TransactionCodeUI.resx">
+      <DependentUpon>TransactionCodeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\TransactionTypeUI.resx">
+      <DependentUpon>TransactionTypeUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_small.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

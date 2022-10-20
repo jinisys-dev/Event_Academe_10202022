@@ -1,0 +1,100 @@
+﻿Installing assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Installing service Folio_Plus_Call_Logger...
+Service Folio_Plus_Call_Logger has been successfully installed.
+Creating EventLog source Folio_Plus_Call_Logger in log Application...
+Committing assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Removing EventLog source Folio_Plus_Call_Logger.
+Service Folio_Plus_Call_Logger is being removed from the system...
+Service Folio_Plus_Call_Logger was successfully removed from the system.
+Installing assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Installing service Folio_Plus_Call_Logger...
+Service Folio_Plus_Call_Logger has been successfully installed.
+Creating EventLog source Folio_Plus_Call_Logger in log Application...
+Committing assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Uninstalling assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Removing EventLog source Folio_Plus_Call_Logger.
+Service Folio_Plus_Call_Logger is being removed from the system...
+Service Folio_Plus_Call_Logger was successfully removed from the system.
+Uninstalling assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Removing EventLog source Folio_Plus_Call_Logger.
+Warning: The source Folio_Plus_Call_Logger is not registered on the local machine.
+Service Folio_Plus_Call_Logger is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Installing service Folio_Plus_Call_Logger...
+Service Folio_Plus_Call_Logger has been successfully installed.
+Creating EventLog source Folio_Plus_Call_Logger in log Application...
+Committing assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Installing assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Installing service Folio_Plus_Call_Logger...
+Creating EventLog source Folio_Plus_Call_Logger in log Application...
+Rolling back assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Restoring event log to previous state for source Folio_Plus_Call_Logger.
+Uninstalling assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Removing EventLog source Folio_Plus_Call_Logger.
+Service Folio_Plus_Call_Logger is being removed from the system...
+Service Folio_Plus_Call_Logger was successfully removed from the system.
+Installing assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog
+Installing service Folio_Plus_Call_Logger...
+Service Folio_Plus_Call_Logger has been successfully installed.
+Creating EventLog source Folio_Plus_Call_Logger in log Application...
+Committing assembly 'C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.exe
+   logfile = C:\Documents and Settings\gsalomon\Desktop\Folio Plus\FolioPlus Call Logger Service\Call Plus to Folio Logger Service\FolioPlusCallLoggerService.InstallLog

@@ -1,0 +1,251 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A0B7CC31-44B4-486C-8263-611F8EBB22B2}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Accounts</AssemblyName>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Jinisys.Hotel.Accounts</RootNamespace>
+    <StartupObject>Jinisys.Hotel.Accounts.%28None%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>..\Main\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverFlowUnderFlow>false</CheckForOverFlowUnderFlow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DefineTrace>true</DefineTrace>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverFlowUnderFlow>false</CheckForOverFlowUnderFlow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DefineTrace>true</DefineTrace>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BusinessSharedClasses, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="C1.C1PrintDocument, Version=1.0.20061.309, Culture=neutral, PublicKeyToken=1a6f4158ebe6d3b8" />
+    <Reference Include="C1.Common">
+      <Name>C1.Common</Name>
+      <HintPath>..\..\..\pos-plus\component one\C1.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid">
+      <Name>C1.Win.C1FlexGrid</Name>
+      <HintPath>..\..\..\pos-plus\component one\C1.Win.C1FlexGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic, Version=2.5.20061.233, Culture=neutral, PublicKeyToken=79882d576c6336da" />
+    <Reference Include="ConfigurationHotel, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="mscorlib">
+      <Name>mscorlib</Name>
+    </Reference>
+    <Reference Include="MSDATASRC">
+      <Name>MSDATASRC</Name>
+      <HintPath>..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\MSDATASRC.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="MySql.Data, Version=1.0.7.30072, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Referenced DLLs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Security, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="stdole">
+      <Name>stdole</Name>
+      <HintPath>..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\stdole.dll</HintPath>
+      <AssemblyFolderKey>hklm\primary interop assemblies</AssemblyFolderKey>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="UIFramework, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\AccountInformation.cs" />
+    <Compile Include="Business Logic\Entity Classes\AccountPrivileges.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\Agent.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\AgentCommission.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\AgentCommissionCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\Company.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\ContactPerson.cs" />
+    <Compile Include="Business Logic\Entity Classes\Guest.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Entity Classes\IncumbentOfficer.cs" />
+    <Compile Include="Business Logic\Facade Classes\AccountPrivilegesFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\AgentFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\CompanyFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Business Logic\Facade Classes\GuestFacade.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\AccountInformationDAO.cs" />
+    <Compile Include="Data Access\AccountPrivilegesDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\AgentDAOvb.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\CompanyDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\ContactPersonDAO.cs" />
+    <Compile Include="Data Access\GuestDAO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Data Access\IncumbentOfficerDAO.cs" />
+    <Compile Include="Presentation\AccountListUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AgentUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\AgentUI.Designer.cs">
+      <DependentUpon>AgentUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\CompanyUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\GuestUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MergeAccountUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MergeAccountUI.Designer.cs">
+      <DependentUpon>MergeAccountUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\MergeCompanyAccountUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\MergeCompanyAccountUI.Designer.cs">
+      <DependentUpon>MergeCompanyAccountUI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Business Logic\Entity Classes\Agent.resx">
+      <DependentUpon>Agent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\Company.resx">
+      <DependentUpon>Company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Business Logic\Entity Classes\Guest.resx">
+      <DependentUpon>Guest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="licenses.licx" />
+    <EmbeddedResource Include="Presentation\AccountListUI.resx">
+      <DependentUpon>AccountListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\AgentUI.resx">
+      <DependentUpon>AgentUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\CompanyUI.resx">
+      <DependentUpon>CompanyUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\GuestUI.resx">
+      <DependentUpon>GuestUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MergeAccountUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MergeAccountUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\MergeCompanyAccountUI.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MergeCompanyAccountUI.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

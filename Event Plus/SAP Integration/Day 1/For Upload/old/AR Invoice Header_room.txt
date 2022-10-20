@@ -1,0 +1,57 @@
+RecordKey	DocEntry	Address	Address2	AgentCode	ApplyTaxOnFirstInstallment	BPChannelCode	BPChannelContact	BPL_IDAssignedToInvoice	BlockDunning	Box1099	CancelDate	CardCode	CardName	Comments	Confirmed	ContactPersonCode	DeferredTax	DocDate	DocDueDate	DocNum	DocTime	DocTotal	DocType	DocumentSubType	DownPayment	ExemptionValidityDateFrom	ExemptionValidityDateTo	ExternalCorrectedDocNum	FederalTaxID	FolioNumber	FolioPrefixString	Form1099	HandWritten	Indicator	InternalCorrectedDocNum	IsPayToBank	JournalMemo	LanguageCode	ManualNumber	MaximumCashDiscount	NumberOfInstallments	PartialSupply	PayToBankAccountNo	PayToBankBranch	PayToBankCode	PayToBankCountry	PayToCode	PaymentBlock	PaymentBlockEntry	PaymentGroupCode	PaymentMethod	PaymentReference	Project	Reference1	Reference2	RequriedDate	RevisionPo	Rounding	SalesPersonCode	Series	ShipToCode	ShowSCN	SummeryType	TaxDate	TaxExemptionLetterNum	TrackingNumber	TransportationCode	UseShpdGoodsAct	VatDate	WareHouseUpdateType		NumAtCard
+RecordKey	DocEntry	Address	Address2	AgentCode	ApplyTaxOnFirstInstallment	BPChannelCode	BPChannelContact	BPL_IDAssignedToInvoice	BlockDunning	Box1099	CancelDate	CardCode	CardName	Comments	Confirmed	ContactPersonCode	DeferredTax	DocDate	DocDueDate	DocNum	DocTime	DocTotal	DocType	DocumentSubType	DownPayment	ExemptionValidityDateFrom	ExemptionValidityDateTo	ExternalCorrectedDocNum	FederalTaxID	FolioNumber	FolioPrefixString	Form1099	HandWritten	Indicator	InternalCorrectedDocNum	IsPayToBank	JournalMemo	LanguageCode	ManualNumber	MaximumCashDiscount	NumberOfInstallments	PartialSupply	PayToBankAccountNo	PayToBankBranch	PayToBankCode	PayToBankCountry	PayToCode	PaymentBlock	PaymentBlockEntry	PaymentGroupCode	PaymentMethod	PaymentReference	Project	Reference1	Reference2	RequriedDate	RevisionPo	Rounding	Salesperson	Series	ShipToCode	ShowSCN	SummeryType	Invoice Date	TaxExemptionLetterNum	TrackingNumber	TransportationCode	UseShpdGoodsAct	VatDate	WareHouseUpdateType		NumAtCard
+1												C23900		ROOM CHARGE913				20091016	20091016				dDocument_Service																																				1					16102009								11221
+2												C23900		ROOM CHARGE909				20091016	20091016				dDocument_Service																																				1					16102009								11219
+3												C23900		ROOM CHARGE811				20091016	20091016				dDocument_Service																																				1					16102009								11214
+4												C23900		ROOM CHARGE606				20091016	20091016				dDocument_Service																																				1					16102009								11203
+5												C23900		ROOM CHARGE404				20091016	20091016				dDocument_Service																																				1					16102009								11196
+6												C23900		ROOM CHARGE802				20091016	20091016				dDocument_Service																																				1					16102009								11211
+7												C23900		ROOM CHARGE608				20091016	20091016				dDocument_Service																																				1					16102009								11204
+8												C23900		ROOM CHARGE615				20091016	20091016				dDocument_Service																																				1					16102009								11207
+9												C23900		ROOM CHARGE609				20091016	20091016				dDocument_Service																																				1					16102009								11205
+10												C23900		ROOM CHARGE502				20091016	20091016				dDocument_Service																																				1					16102009								11200
+11												C23900		ROOM CHARGE711				20091016	20091016				dDocument_Service																																				1					16102009								11208
+12												C23900		ROOM CHARGE915				20091016	20091016				dDocument_Service																																				1					16102009								11222
+13												C23900		ROOM CHARGE511				20091016	20091016				dDocument_Service																																				1					16102009								11202
+14												C23900		ROOM CHARGE813				20091016	20091016				dDocument_Service																																				1					16102009								11215
+15												C23900		ROOM CHARGE904				20091016	20091016				dDocument_Service																																				1					16102009								11218
+16												C23900		ROOM CHARGE916				20091016	20091016				dDocument_Service																																				1					16102009								11223
+17												C23900		ROOM CHARGE413				20091016	20091016				dDocument_Service																																				1					16102009								11199
+18												C23900		ROOM CHARGE902				20091016	20091016				dDocument_Service																																				1					16102009								11217
+19												C23900		ROOM CHARGE402				20091016	20091016				dDocument_Service																																				1					16102009								11194
+20												C23900		ROOM CHARGE403				20091016	20091016				dDocument_Service																																				1					16102009								11195
+21												C23900		ROOM CHARGE809				20091016	20091016				dDocument_Service																																				1					16102009								11213
+22												C23900		ROOM CHARGE803				20091016	20091016				dDocument_Service																																				1					16102009								11212
+23												C23900		ROOM CHARGE901				20091016	20091016				dDocument_Service																																				1					16102009								11216
+24												C23900		ROOM CHARGE406				20091016	20091016				dDocument_Service																																				1					16102009								11197
+25												C23900		ROOM CHARGE509				20091016	20091016				dDocument_Service																																				1					16102009								11201
+26												C23900		ROOM CHARGE100				20091016	20091016				dDocument_Service																																				1					16102009								11191
+27												C23900		ROOM CHARGE101				20091016	20091016				dDocument_Service																																				1					16102009								11192
+28												C23900		ROOM CHARGE910				20091016	20091016				dDocument_Service																																				1					16102009								11220
+29												C23900		ROOM CHARGE713				20091016	20091016				dDocument_Service																																				1					16102009								11209
+30												C23900		ROOM CHARGE401				20091016	20091016				dDocument_Service																																				1					16102009								11193
+31												C23900		ROOM CHARGE614				20091016	20091016				dDocument_Service																																				1					16102009								11206
+32												C23900		ROOM CHARGE409				20091016	20091016				dDocument_Service																																				1					16102009								11198
+33												C23900		ROOM CHARGE801				20091016	20091016				dDocument_Service																																				1					16102009								11210
+34												C23900		TELEPHONE CHARGE				20091016	20091016				dDocument_Service																																				1					16102009								180267
+35												C23900		TELEPHONE CHARGE				20091016	20091016				dDocument_Service																																				1					16102009								180323
+36												C23900		TELEPHONE CHARGE				20091016	20091016				dDocument_Service																																				1					16102009								180324
+37												C23900		RESTAURANT - DINE IN				20091016	20091016				dDocument_Service																																				1					16102009								5478
+38												C23900		RESTAURANT - DINE IN				20091016	20091016				dDocument_Service																																				1					16102009								5479
+39												C23900		RESTAURANT - DINE IN				20091016	20091016				dDocument_Service																																				1					16102009								5481
+40												C23900		RESTAURANT - DINE IN				20091016	20091016				dDocument_Service																																				1					16102009								5490
+41												C23900		RESTAURANT - DINE IN				20091016	20091016				dDocument_Service																																				1					16102009								5489
+42												C23900		RESTAURANT - DINE IN				20091016	20091016				dDocument_Service																																				1					16102009								5477
+43												C23900		1 VIVA 500ML				20091016	20091016				dDocument_Service																																				1					16102009								1691
+44												C23900		1 SMB PILSEN  1 SMB LIGHT				20091016	20091016				dDocument_Service																																				1					16102009								1687
+45												C23900		1 SMB LIGHT  2 VIVA 500ML				20091016	20091016				dDocument_Service																																				1					16102009								1693
+46												C23900		MINI-BAR				20091016	20091016				dDocument_Service																																				1					16102009								1694
+47												C23900		MINI-BAR				20091016	20091016				dDocument_Service																																				1					16102009								1695
+48												C23900		MINI-BAR				20091016	20091016				dDocument_Service																																				1					16102009								1686
+49												C23900		1 SMB LIGHT				20091016	20091016				dDocument_Service																																				1					16102009								1690
+50												C23900		MINI-BAR- 1 VIVA WATER 500ML				20091016	20091016				dDocument_Service																																				1					16102009								1696
+51												C23900		MINI-BAR				20091016	20091016				dDocument_Service																																				1					16102009								1688
+52												C23900		1 FIT`N RIGHT				20091016	20091016				dDocument_Service																																				1					16102009								1692
+53												C23900		TRUST CONDOM				20091016	20091016				dDocument_Service																																				1					16102009								MCV#2926
+54												C23900		LAUNDRY / PRESSING				20091016	20091016				dDocument_Service																																				1					16102009								2784
+55												C23900		LAUNDRY / PRESSING				20091016	20091016				dDocument_Service																																				1					16102009								2545
